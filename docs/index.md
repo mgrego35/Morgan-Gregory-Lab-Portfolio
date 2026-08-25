@@ -1,6 +1,6 @@
 ## Morgan Gregory MEGR 2156 — Design Projects I Laboratory
 
-Welcome to my portfolio. My name is Morgan Gregory and I am a 3rd year mechanical engineering major studying at The University of North Carolina at Charlotte. My main interest lies in robotics and I have a good amount of knowledge in coding and design. If you would like to find my projects you can find them on the left side, along with an about me page.
+Welcome to my portfolio! My name is Morgan Gregory and I am a 3rd year mechanical engineering major studying at The University of North Carolina at Charlotte. My main interest lies in robotics and I have a good amount of knowledge in coding and design. If you would like to find my projects you can find them on the left side, along with an about me page. Continue reading if you are interested in what this portfolio is all about.
 
 > **Engineering is the art of making decisions you can defend.**
 
