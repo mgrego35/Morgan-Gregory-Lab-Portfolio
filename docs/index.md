@@ -1,4 +1,4 @@
-# MEGR 2156 — Design Projects I Laboratory
+## Morgan Gregory MEGR 2156 — Design Projects I Laboratory
 
 > **Engineering is the art of making decisions you can defend.**
 
