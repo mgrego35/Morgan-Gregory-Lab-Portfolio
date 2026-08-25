@@ -1,5 +1,11 @@
 ## Morgan Gregory MEGR 2156 — Design Projects I Laboratory
 
+<img width="259" height="148" alt="image" src="https://github.com/user-attachments/assets/2eccf2e8-9e0d-4203-8ab0-60265bd81fec" />
+
+
+
+
+
 > **Engineering is the art of making decisions you can defend.**
 
 **Welcome to your design portfolio.**
