@@ -14,9 +14,22 @@ The assignment given was to find a file to print on the website given (https://w
 
 ## Download
 
-The first design chosen was a small cylinder bowl shape shown below. The goal with this was to have an area to put small parts
+The first design chosen was a small cylinder bowl shape shown below. The goal with this was to have a small area to place my mini screws for my shaft collars at home. I thought the open design would make it easier to get parts when I need them without having to worry about taking a cover mechanism off.
 
 <img width="1837" height="765" alt="Screenshot 2026-08-29 235610" src="https://github.com/user-attachments/assets/2bd1c5c1-c60c-4d76-aec3-1bcd68260149" />
+
+The shortcoming with this design is that the open lid design seemed like a bad idea alongside the relative shape of the inside felt like it would not hold enough because of the wasted space.
+
+I began looking for a second design that was similar in that it was a cylindrical shape with a lid and a thinner walls for more space for the collar screws and found the final design below.
+
+<img width="1842" height="780" alt="Screenshot 2026-08-29 235303" src="https://github.com/user-attachments/assets/8061dc54-ec38-4fa3-b082-35f58b83f642" />
+
+This design fulfilled the shortcomings of the first design.
+
+Design 1: https://www.printables.com/model/818357-small-cylinder-type-bowl
+
+Final Design: https://www.printables.com/model/430109-cylinder-container-for-small-items/files
+
 
 
 
