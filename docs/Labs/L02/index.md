@@ -16,6 +16,7 @@ The assignment given was to find a file to print on the website given (https://w
 
 The first design chosen was a small cylinder bowl shape shown below. The goal with this was to have an area to put small parts
 
+<img width="1837" height="765" alt="Screenshot 2026-08-29 235610" src="https://github.com/user-attachments/assets/2bd1c5c1-c60c-4d76-aec3-1bcd68260149" />
 
 
 
