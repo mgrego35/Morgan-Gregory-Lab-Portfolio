@@ -32,4 +32,12 @@ Final Design: https://www.printables.com/model/430109-cylinder-container-for-sma
 
 ## Preprocessing
 
+In PrusaSlicer, we were required to group with 2-3 other people on one build plate. Elizabeth Cox and Ethan Cornett were my two groupmates. Our build plate finalized is shown below. The plate was arranged with all the parts towards the center grouped up because it is convenient so that the extruder does not have to be moved across the plate every time a layer is added. 
+
+<img width="1206" height="758" alt="Screenshot 2026-08-31 191637" src="https://github.com/user-attachments/assets/9860b85b-c7d6-46c7-9e02-a88d2c491543" />
+
+
+
+
+
 
