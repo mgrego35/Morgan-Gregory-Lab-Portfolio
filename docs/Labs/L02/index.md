@@ -36,8 +36,9 @@ In PrusaSlicer, we were required to group with 2-3 other people on one build pla
 
 <img width="1206" height="758" alt="Screenshot 2026-08-31 191637" src="https://github.com/user-attachments/assets/9860b85b-c7d6-46c7-9e02-a88d2c491543" />
 
+The print dd not have supports as there was nothing that required supports to print, including overhangs or bridging. The different files had to all be scaled differently. My print was scaled down to only 2.67% of the original size, as shown below, while some others had to be scaled up.
 
-
+<img width="477" height="282" alt="Screenshot 2026-08-31 190905" src="https://github.com/user-attachments/assets/440f39c4-74c6-4542-9ef4-f031091848e3" />
 
 
 
