@@ -48,6 +48,8 @@ The final, sliced image is shown below.
 
 ## Print
 
+<video controls width="320" src="https://github.com/user-attachments/assets/34f1ccc7-a894-4e30-aa55-56b516216181"></video>
+
 The printer used was printer 5. Pictures and a video of the process are shown below.
 
 <img width="758" height="1008" alt="IMG_3887" src="https://github.com/user-attachments/assets/2e7fb2b2-f25c-41b2-84eb-879c71e3f1d5" />
@@ -66,6 +68,6 @@ Final Design: https://www.printables.com/model/430109-cylinder-container-for-sma
 
 Video of the Print: 
 
-<video controls width="320" src="https://github.com/user-attachments/assets/34f1ccc7-a894-4e30-aa55-56b516216181">
+
 
 
