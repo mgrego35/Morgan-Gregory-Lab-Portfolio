@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/76a3c02e-d1fb-4eab-b334-578acbac86b4
-
 # L02 – Print Something Small
 
 ## In-Class Research
@@ -53,6 +49,10 @@ The final, sliced image is shown below.
 ## Print
 
 The printer used was printer 5. Pictures and a video of the process are shown below.
+
+https://github.com/user-attachments/assets/76a3c02e-d1fb-4eab-b334-578acbac86b4
+
+
 
 
 
