@@ -50,7 +50,7 @@ The final, sliced image is shown below.
 
 The printer used was printer 5. Pictures and a video of the process are shown below.
 
-https://github.com/user-attachments/assets/76a3c02e-d1fb-4eab-b334-578acbac86b4
+https://github.com/user-attachments/assets/34f1ccc7-a894-4e30-aa55-56b516216181
 
 <img width="758" height="1008" alt="IMG_3887" src="https://github.com/user-attachments/assets/2e7fb2b2-f25c-41b2-84eb-879c71e3f1d5" />
 
