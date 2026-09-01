@@ -48,11 +48,9 @@ The final, sliced image is shown below.
 
 ## Print
 
-<video width="320" controls>
-<source src="https://github.com/user-attachments/assets/34f1ccc7-a894-4e30-aa55-56b516216181" type="video/mp4">
-</video>
-
 The printer used was printer 5. Pictures and a video of the process are shown below.
+
+<video controls width="320" src="https://github.com/user-attachments/assets/34f1ccc7-a894-4e30-aa55-56b516216181">
 
 <img width="758" height="1008" alt="IMG_3887" src="https://github.com/user-attachments/assets/2e7fb2b2-f25c-41b2-84eb-879c71e3f1d5" />
 
@@ -67,8 +65,7 @@ The first thing I learned was about rapid cooling. Since the print plate did not
 Design 1: https://www.printables.com/model/818357-small-cylinder-type-bowl
 
 Final Design: https://www.printables.com/model/430109-cylinder-container-for-small-items/files
-
-Video of the Print: 
+ 
 
 
 
