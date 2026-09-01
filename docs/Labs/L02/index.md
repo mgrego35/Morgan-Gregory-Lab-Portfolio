@@ -32,13 +32,25 @@ Final Design: https://www.printables.com/model/430109-cylinder-container-for-sma
 
 ## Preprocessing
 
-In PrusaSlicer, we were required to group with 2-3 other people on one build plate. Elizabeth Cox and Ethan Cornett were my two groupmates. Our build plate finalized is shown below. The plate was arranged with all the parts towards the center grouped up because it is convenient so that the extruder does not have to be moved across the plate every time a layer is added. 
+In PrusaSlicer, we were required to group with 2-3 other people on one build plate. Lexie Cox and Ethan Cornett were my two groupmates. Our build plate finalized is shown below. The plate was arranged with all the parts towards the center grouped up because it is convenient so that the extruder does not have to be moved across the plate every time a layer is added. 
 
 <img width="1206" height="758" alt="Screenshot 2026-08-31 191637" src="https://github.com/user-attachments/assets/9860b85b-c7d6-46c7-9e02-a88d2c491543" />
 
 The print dd not have supports as there was nothing that required supports to print, including overhangs or bridging. The different files had to all be scaled differently. My print was scaled down to only 2.67% of the original size, as shown below, while some others had to be scaled up.
 
 <img width="477" height="282" alt="Screenshot 2026-08-31 190905" src="https://github.com/user-attachments/assets/440f39c4-74c6-4542-9ef4-f031091848e3" />
+
+One possible mistake we made in the preprocessing stage was scaling things down too much because it caused the area of the pieces to not necessarily fit together properly, but this will be discussed in more detail in the lessons learned section.
+
+The final, sliced image is shown below.
+
+<img width="1917" height="913" alt="Screenshot 2026-08-31 212605" src="https://github.com/user-attachments/assets/3585e056-37ae-430a-9458-5301a79a6217" />
+
+## Print
+
+The printer used was printer 5. Pictures and a video of the process are shown below.
+
+
 
 
 
