@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/76a3c02e-d1fb-4eab-b334-578acbac86b4
+
 # L02 – Print Something Small
 
 ## In-Class Research
