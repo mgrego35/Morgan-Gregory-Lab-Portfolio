@@ -48,7 +48,9 @@ The final, sliced image is shown below.
 
 ## Print
 
-<video controls width="320" src="https://github.com/user-attachments/assets/34f1ccc7-a894-4e30-aa55-56b516216181"></video>
+<video width="320" controls>
+<source src="https://github.com/user-attachments/assets/34f1ccc7-a894-4e30-aa55-56b516216181" type="video/mp4">
+</video>
 
 The printer used was printer 5. Pictures and a video of the process are shown below.
 
