@@ -52,8 +52,19 @@ The printer used was printer 5. Pictures and a video of the process are shown be
 
 https://github.com/user-attachments/assets/76a3c02e-d1fb-4eab-b334-578acbac86b4
 
+<img width="758" height="1008" alt="IMG_3887" src="https://github.com/user-attachments/assets/2e7fb2b2-f25c-41b2-84eb-879c71e3f1d5" />
 
+<img width="758" height="1008" alt="IMG_3888" src="https://github.com/user-attachments/assets/8f9a0ced-d717-437a-b18b-2b8067f8088f" />
 
+## Lessons Learned
+
+The first thing I learned was about rapid cooling. Since the print plate did not have enough time to cool down before we pulled it out, being exposed to the air on all sides likely shrunk the part on the outside faster than the inside. The second thing I learned was about bridging which Lexie said required supports to be made between parts to prevent the floating bridges. The third thing I learned was printing orientation can largely affect whether or not a print turns out alright or not. If it is oriented correctly it can make it much easier instead of requiring supports. The last thing I learned was about the scale tool changing radius means it changes the area of a circle differently. A fit can be ruined like in my part, having too much wiggle room because the scaling tool has a big effect in the end.
+
+## Sources
+
+Design 1: https://www.printables.com/model/818357-small-cylinder-type-bowl
+
+Final Design: https://www.printables.com/model/430109-cylinder-container-for-small-items/files
 
 
 
