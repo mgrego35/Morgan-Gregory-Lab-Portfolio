@@ -4,6 +4,18 @@
 
 The assignment was to design something small with the dimensions 1.5 in x 1.5 in x .5 in max (l x w x h). A friend of mine recently bumped her head and it left a slight bump, which I wanted to create a hat for.
 
+The first step was to create the cross sectional geometry for half of the hat shown below. The dimensions given are in inches.
+
+<img width="497" height="326" alt="Screenshot 2026-09-08 120125" src="https://github.com/user-attachments/assets/4f887ed5-05d5-4879-91f9-974d9048bb88" />
+
+The next step was to add a larger circular extruded cut into the hat. The dimensions of the whole are shown below in inches.
+
+<img width="557" height="326" alt="Screenshot 2026-09-08 120237" src="https://github.com/user-attachments/assets/9ca21c82-bbfc-4c36-8107-fe033e63b1ce" />
+
+The final step is to create a smaller extruded cut in order to fit the top of the bump. The dimensions given below are in inches.
+
+<img width="670" height="642" alt="Screenshot 2026-09-08 120250" src="https://github.com/user-attachments/assets/2954d7a7-22f9-4794-93a3-d4536571c219" />
+
 ## Research
 
 In class we discussed infills along with brims and skirts. There are many different types of infills available on PrusaSlicer. The three I researched were gyroid, grid, and adaptive cubic. In all of the images below the same part is used at 15% infill to show the difference in print times, and to show how dense the infill looks.
