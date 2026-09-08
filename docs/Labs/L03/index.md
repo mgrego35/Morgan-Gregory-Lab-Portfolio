@@ -58,9 +58,13 @@ The finished print along with a video are shown below.
 
 This project took me a total of around 5 hours of work to finish. I think that the greatest lesson learned throughout the project was to not design things that do not have the thickness to be printed properly. The inside of my hat did not have proper thickness and it was too thin to stick together. If this were a more critical part and I did not use the proper wall thickness, the part would likely crack or break very easily and it would fail at its task. I did not catch any mistakes until the end when I realized the part was too thin towards the middle of the hat. One item where thickness is taken into account is the Rubix Cube. These cubes are not meant to be heavy and if they had 100% infill they would be more annoying to use or be quick with. 
 
-References:
+## References:
 
 https://ultimaker.com/learn/mastering-3d-printing-infill-patterns-from-gyroid-to-lightning/
 
 https://help.prusa3d.com/article/infill-patterns_177130
+
+Solidworks Part: 
+
+
 
