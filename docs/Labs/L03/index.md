@@ -34,7 +34,17 @@ Adaptive Cubic - The adaptive cubic infill is like the cubic infill but it saves
 
 ## Preprocessing
 
-We chose the build orientation below because it grouped everything together to make the hot end not have to move far away from the center. My print did not need to be scaled because they were designed in SolidWorks with the exact dimensions intended for printing. The infill I used was the gyroid infill. I used it mainly to give good supports even though the piece was so small. I did not change the wall thickness, because wall thickness is mainly changed to add strength to an object. There were no real mistakes so far that were noticeable. The final build plate is shown below.
+We chose the build orientation below because it grouped everything together to make the hot end not have to move far away from the center. My print did not need to be scaled because they were designed in SolidWorks with the exact dimensions intended for printing. The infill I used was the gyroid infill. I used it mainly to give good supports even though the piece was so small. I did not change the wall thickness, because wall thickness is mainly changed to add strength to an object. There were no real mistakes so far that were noticeable. The final build plate is shown below along with the times and sizes and details given from PrusaSlicer.
+
+<img width="697" height="645" alt="Screenshot 2026-09-08 120627" src="https://github.com/user-attachments/assets/7a3b82fc-b840-4f95-b9f3-877b0e3fb52f" />
+
+<img width="637" height="636" alt="Screenshot 2026-09-08 120752" src="https://github.com/user-attachments/assets/67f01b8d-6849-4744-bc29-71021e9136b2" />
+
+<img width="633" height="373" alt="Screenshot 2026-09-08 120741" src="https://github.com/user-attachments/assets/fc9d1643-d8b0-4179-9e89-382a4f3d15f2" />
+
+<img width="912" height="258" alt="Screenshot 2026-09-08 120715" src="https://github.com/user-attachments/assets/0d6124a5-9616-45b3-a337-98a9c272f53b" />
+
+<img width="882" height="342" alt="Screenshot 2026-09-08 120725" src="https://github.com/user-attachments/assets/16a49d6c-af9b-4a0b-b1db-f023d955bfdc" />
 
 ## Print
 
