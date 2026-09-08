@@ -22,7 +22,15 @@ Adaptive Cubic - The adaptive cubic infill is like the cubic infill but it saves
 
 ## Preprocessing
 
-We chose the build orientation below because it grouped everything together to make the hot end not have to move far away from the center. My print did not need to be scaled because they were designed in SolidWorks with the exact dimensions intended for printing. 
+We chose the build orientation below because it grouped everything together to make the hot end not have to move far away from the center. My print did not need to be scaled because they were designed in SolidWorks with the exact dimensions intended for printing. The infill I used was the gyroid infill. I used it mainly to give good supports even though the piece was so small. I did not change the wall thickness, because wall thickness is mainly changed to add strength to an object. There were no real mistakes so far that were noticable. 
+
+## Print
+
+The finished print along with a video are shown below.
+
+<img width="605" height="806" alt="unnamed" src="https://github.com/user-attachments/assets/4508ddbd-aeaf-4b08-8f1c-aebdf5cfc825" />
+
+
 
 References:
 
