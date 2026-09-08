@@ -22,7 +22,7 @@ Adaptive Cubic - The adaptive cubic infill is like the cubic infill but it saves
 
 ## Preprocessing
 
-We chose the build orientation below because it grouped everything together to make the hot end not have to move far away from the center. My print did not need to be scaled because they were designed in SolidWorks with the exact dimensions intended for printing. The infill I used was the gyroid infill. I used it mainly to give good supports even though the piece was so small. I did not change the wall thickness, because wall thickness is mainly changed to add strength to an object. There were no real mistakes so far that were noticable. 
+We chose the build orientation below because it grouped everything together to make the hot end not have to move far away from the center. My print did not need to be scaled because they were designed in SolidWorks with the exact dimensions intended for printing. The infill I used was the gyroid infill. I used it mainly to give good supports even though the piece was so small. I did not change the wall thickness, because wall thickness is mainly changed to add strength to an object. There were no real mistakes so far that were noticeable. The final build plate is shown below.
 
 ## Print
 
@@ -32,7 +32,9 @@ The finished print along with a video are shown below.
 
 <video controls width="320" src="https://github.com/user-attachments/assets/74edb933-4561-4e6e-b49d-4f1436577aaa"></video>
 
+## Lessons Learned
 
+This project took me a total of around 5 hours of work to finish. I think that the greatest lesson learned throughout the project was to not design things that do not have the thickness to be printed properly. The inside of my hat did not have proper thickness and it was too thin to stick together. If this were a more critical part and I did not use the proper wall thickness, the part would likely crack or break very easily and it would fail at its task. I did not catch any mistakes until the end when I realized the part was too thin towards the middle of the hat. One item where thickness is taken into account is the Rubix Cube. These cubes are not meant to be heavy and if they had 100% infill they would be more annoying to use or be quick with. 
 
 References:
 
