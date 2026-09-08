@@ -30,6 +30,8 @@ The finished print along with a video are shown below.
 
 <img width="605" height="806" alt="unnamed" src="https://github.com/user-attachments/assets/4508ddbd-aeaf-4b08-8f1c-aebdf5cfc825" />
 
+<video controls width="320" src="https://github.com/user-attachments/assets/74edb933-4561-4e6e-b49d-4f1436577aaa"></video>
+
 
 
 References:
