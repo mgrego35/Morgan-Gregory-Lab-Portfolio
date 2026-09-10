@@ -10,6 +10,10 @@ I wanted to test the following lengths, .25 inches, .5 inches, 1 inches, 3 inche
 
 I started by creating the platform, which is shown below. I made it 6 inches long and 3 inches wide. This decision came from the longest piece being 5 inches, which leaves about half an inch on both ends so it was not hanging off or flush. The width came from .5 inches on both sides, the 3 .5 inch cross sections, and 2 gaps in between of .25 inches each. The sketch for the base plate and the extrusion are shown in SolidWorks below.
 
+<img width="633" height="385" alt="Screenshot 2026-09-10 123944 (2)" src="https://github.com/user-attachments/assets/40884d15-f87f-4266-80f0-a284589a6b81" />
+
+
+
 
 
 
