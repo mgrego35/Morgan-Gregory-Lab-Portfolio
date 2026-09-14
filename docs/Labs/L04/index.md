@@ -24,6 +24,13 @@ Next I had to add the beams on the platform. Since they were all going to be the
 
 <img width="662" height="377" alt="Screenshot 2026-09-10 125141 (1)" src="https://github.com/user-attachments/assets/005d5846-719d-48a1-ad8a-74e50a9daf05" />
 
+The final thing I needed was text explaining what it was. I wanted people to understand what the part was. I chose to add text in the middle of it as shown below.
+
+<img width="733" height="366" alt="Screenshot 2026-09-10 125514" src="https://github.com/user-attachments/assets/42ef4be3-d35d-435b-aa33-a35f86315b4e" />
+
+<img width="640" height="300" alt="Screenshot 2026-09-10 125701" src="https://github.com/user-attachments/assets/01627ec6-33af-4247-b7ba-e83283c06494" />
+
+The finished model is found here: [L04_2156.zip](https://github.com/user-attachments/files/32214557/L04_2156.zip)
 
 
 
