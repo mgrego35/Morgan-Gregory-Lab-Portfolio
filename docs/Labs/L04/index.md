@@ -14,6 +14,20 @@ I started by creating the platform, which is shown below. I made it 6 inches lon
 
 <img width="639" height="293" alt="Screenshot 2026-09-10 124042" src="https://github.com/user-attachments/assets/6929c681-e00c-45d8-b398-5a0e1ac0a12a" />
 
+<img width="596" height="282" alt="Screenshot 2026-09-10 124329" src="https://github.com/user-attachments/assets/94688c12-f63f-497f-bc05-d7e7ec163ece" />
+
+Next I had to add the beams on the platform. Since they were all going to be the same height, I made the sketch shown below, including them all so they can have consistent dimensions. The final sketch and extrusion are shown below.
+
+<img width="580" height="311" alt="Screenshot 2026-09-10 124956 (1)" src="https://github.com/user-attachments/assets/543f15be-ef0a-4a3c-a14f-e044b5dc194f" />
+
+<img width="639" height="300" alt="Screenshot 2026-09-10 125053 (1)" src="https://github.com/user-attachments/assets/7e8c6baa-11ba-4b8e-8fcf-cbb95b5e2a6c" />
+
+<img width="662" height="377" alt="Screenshot 2026-09-10 125141 (1)" src="https://github.com/user-attachments/assets/005d5846-719d-48a1-ad8a-74e50a9daf05" />
+
+
+
+
+
 
 
 
