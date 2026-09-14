@@ -12,6 +12,7 @@ I started by creating the platform, which is shown below. I made it 6 inches lon
 
 <img width="633" height="385" alt="Screenshot 2026-09-10 123944 (2)" src="https://github.com/user-attachments/assets/40884d15-f87f-4266-80f0-a284589a6b81" />
 
+<img width="639" height="293" alt="Screenshot 2026-09-10 124042" src="https://github.com/user-attachments/assets/6929c681-e00c-45d8-b398-5a0e1ac0a12a" />
 
 
 
