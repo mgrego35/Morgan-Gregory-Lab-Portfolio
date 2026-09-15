@@ -76,14 +76,12 @@ The percent errors were found using the equations below, and averaged up. This m
 
 Thus, the average shrinkage in length was .322% of the whole length. This is right on point to where it should be.
 
+## Lessons Learned
 
+The outcome of this lab was just as I had expected. It was right around .3% of the length and the average was only slightly off. It matched the expected from the sheet but it was a little under what I the shrinkage calculator predicted. I did learn that there is no difference in the percent shrinkage if it is bigger. The shrinkage will be bigger but the percentage will likely stay on point. The highest was .5 inches with a .4% shrinkage while the 5 inch one only had a .33% shrinkage. This project took about 5 hours to finish.
 
+## Resources
 
+[PL_3DP_Design_Rules_EN (1).pdf](https://github.com/user-attachments/files/32218913/PL_3DP_Design_Rules_EN.1.pdf)
 
-
-
-
-
-
-
-
+https://grandpacad.com/en/tools/material-shrinkage-calculator
