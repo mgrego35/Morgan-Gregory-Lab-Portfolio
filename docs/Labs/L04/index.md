@@ -50,11 +50,34 @@ Below are the final images from the preprocessor, unsliced and sliced showing pr
 
 <img width="777" height="370" alt="Screenshot 2026-09-14 205052" src="https://github.com/user-attachments/assets/d2dd766d-6982-4cfa-a16f-770dfd748e9b" />
 
-## Print
+## Print and Analysis
 
 Below is a video of the print, and a picture of the final product.
 
 <video controls width="320" src="https://github.com/user-attachments/assets/36627a1d-41b2-494c-a145-43b42bda06ee"></video>
+
+<img width="534" height="310" alt="Screenshot 2026-09-14 211539" src="https://github.com/user-attachments/assets/deb5ccf3-07d9-456b-b2ce-2a655fbae726" />
+
+The dimensions of the beams were as follows: .2495 in, .4980 in, .9970 in, 2.9885 in, and 4.9835 in
+
+The percent errors were found using the equations below, and averaged up. This must be done because it is a percentage and varies by length.
+
+<img width="525" height="106" alt="Screenshot 2026-09-14 212108" src="https://github.com/user-attachments/assets/29161c4b-1e16-486c-bff5-90a9a16fe574" />
+
+<img width="523" height="113" alt="Screenshot 2026-09-14 212211" src="https://github.com/user-attachments/assets/95b888b6-8585-41c3-8d27-ad70dd04cf82" />
+
+<img width="523" height="109" alt="Screenshot 2026-09-14 212230" src="https://github.com/user-attachments/assets/7f71823c-ea21-4d6e-b67a-d395fd1cd19f" />
+
+<img width="521" height="110" alt="Screenshot 2026-09-14 212426" src="https://github.com/user-attachments/assets/7780e523-63ef-4a73-a6ae-8bce1b86b328" />
+
+<img width="521" height="112" alt="Screenshot 2026-09-14 212352" src="https://github.com/user-attachments/assets/ee4c5608-e68d-4ecf-919e-1b91529c3038" />
+
+<img width="527" height="120" alt="Screenshot 2026-09-14 212432" src="https://github.com/user-attachments/assets/07174a12-9ebd-4067-9ace-a2159e7ec69f" />
+
+Thus, the average shrinkage in length was .322% of the whole length. This is right on point to where it should be.
+
+
+
 
 
 
