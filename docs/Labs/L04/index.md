@@ -32,8 +32,17 @@ The final thing I needed was text explaining what it was. I wanted people to und
 
 The finished model is found here: [L04_2156.zip](https://github.com/user-attachments/files/32214557/L04_2156.zip)
 
+## Preprocessing
 
+The settings were left relatively unchanged. The main things changed were the fill density and the fill pattern. This print did not need anything special like wall loops, skirts, or brims to be changed. The fill density we chose first was 10% as shown in the first image below, but it did not look solid enough for what I wanted, so it was changed to 15% instead, which is shown below that.
 
+<img width="715" height="294" alt="Screenshot 2026-09-14 204649" src="https://github.com/user-attachments/assets/bafcd715-943e-4034-b750-83253bd18878" />
+
+<img width="781" height="369" alt="Screenshot 2026-09-14 204711" src="https://github.com/user-attachments/assets/87a84cfc-4df2-43d7-9b51-0d33623fae21" />
+
+<img width="736" height="284" alt="Screenshot 2026-09-14 204723" src="https://github.com/user-attachments/assets/e0a4f5d3-18c0-4a29-9667-8f0910c35c8d" />
+
+<img width="780" height="369" alt="Screenshot 2026-09-14 204730" src="https://github.com/user-attachments/assets/e6774178-fa15-4ad3-845a-d7236c95acff" />
 
 
 
