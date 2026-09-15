@@ -50,6 +50,17 @@ Below are the final images from the preprocessor, unsliced and sliced showing pr
 
 <img width="777" height="370" alt="Screenshot 2026-09-14 205052" src="https://github.com/user-attachments/assets/d2dd766d-6982-4cfa-a16f-770dfd748e9b" />
 
+## Print
+
+Below is a video of the print, and a picture of the final product.
+
+<video controls width="320" src="https://github.com/user-attachments/assets/36627a1d-41b2-494c-a145-43b42bda06ee"></video>
+
+
+
+
+
+
 
 
 
