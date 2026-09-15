@@ -44,7 +44,11 @@ The settings were left relatively unchanged. The main things changed were the fi
 
 <img width="780" height="369" alt="Screenshot 2026-09-14 204730" src="https://github.com/user-attachments/assets/e6774178-fa15-4ad3-845a-d7236c95acff" />
 
+Below are the final images from the preprocessor, unsliced and sliced showing print times.
 
+<img width="514" height="368" alt="Screenshot 2026-09-14 205045" src="https://github.com/user-attachments/assets/460c8cf9-fc01-42b4-a7cb-a233ba445521" />
+
+<img width="777" height="370" alt="Screenshot 2026-09-14 205052" src="https://github.com/user-attachments/assets/d2dd766d-6982-4cfa-a16f-770dfd748e9b" />
 
 
 
