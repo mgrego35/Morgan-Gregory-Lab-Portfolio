@@ -1,14 +1,22 @@
-# A5 – [Topic]
+# L05 – Design a Snap Fit
 
-## Objective
-
-
-## Analyze
+## Modeling
 
 
-## Decide
 
 
-## Communicate
+
+
+
+
+
+
+
+
+
+
+
+
+## Sources
 
 https://juggerbot3d.com/pla-filament-review/
