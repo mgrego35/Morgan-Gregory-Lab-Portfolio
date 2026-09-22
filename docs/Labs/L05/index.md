@@ -70,7 +70,7 @@ A video of the print is shown below, along with a final photo.
 
 <img width="340" height="471" alt="Screenshot 2026-09-22 005638" src="https://github.com/user-attachments/assets/72f5b6f3-efac-4685-9155-b217308942cf" />
 
-
+<video controls width="320" src="https://github.com/user-attachments/assets/8d2e734b-be59-470d-9ce6-3aabc6f0607c"></video>
 
 ## Sources
 
