@@ -26,7 +26,15 @@ The stress calculations are shown below. This ensures none are above the max str
 
 <img width="381" height="80" alt="Screenshot 2026-09-22 003850" src="https://github.com/user-attachments/assets/71f6d5e7-7bca-46b1-8805-6c9c46a56c8d" />
 
+## Parametrically Design
 
+To design parametrically, the variables were put into the global variables section as shown below.
+
+<img width="805" height="218" alt="Screenshot 2026-09-21 111816" src="https://github.com/user-attachments/assets/9a421b14-b3c1-4e69-aed4-41d7c237cf23" />
+
+These were then applied to the sketch from the top view of the outer part shown below.
+
+<img width="1160" height="718" alt="Screenshot 2026-09-21 111757" src="https://github.com/user-attachments/assets/c153afc4-29ac-492a-8eec-59115b1a198a" />
 
 
 
