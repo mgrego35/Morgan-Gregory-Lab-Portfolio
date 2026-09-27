@@ -14,6 +14,8 @@ Measurements for this assignment were taken with a Neiko digital caliper found a
 
 To begin the parametric designing phase, I started by taking the measurements of the base and adding them to my variables list.
 
+[IMAGE OF GLOBAL VARIABLES HERE]
+
 
 
 
