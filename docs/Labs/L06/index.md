@@ -6,6 +6,10 @@ The given assignment this week was to grab an artifact from the bin in class and
 
 [IMAGE OF ARTIFACT HERE]
 
+Measurements for this assignment were taken with a Neiko digital caliper found at the end of this assignment and shown below.
+
+[IMAGE OF CALIPER HERE]
+
 ## Parametric Design
 
 
