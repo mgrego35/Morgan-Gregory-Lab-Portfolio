@@ -20,6 +20,9 @@ Next I created a sketch of the top view. I began with this because it was easily
 
 <img width="780" height="534" alt="Screenshot 2026-09-28 020431" src="https://github.com/user-attachments/assets/9de91178-d644-4659-8829-3651394fb108" />
 
+I then extruded the top sketch by the global variable for the height. This will leave clearance between the platform and bottom in order to not get caught on the small piece below.
+
+<img width="639" height="297" alt="Screenshot 2026-09-28 134934" src="https://github.com/user-attachments/assets/b66779f2-8b0b-4336-a44c-d1ae7017666e" />
 
 
 
