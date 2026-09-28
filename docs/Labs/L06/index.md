@@ -50,6 +50,8 @@ The finished model is linked in the references section and is shown below.
 
 <img width="801" height="715" alt="Screenshot 2026-09-28 152141" src="https://github.com/user-attachments/assets/f5f4c8c8-f7ee-43eb-a9d9-6504ba33e952" />
 
+## Preprocessing
+
 
 
 
