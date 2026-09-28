@@ -4,11 +4,11 @@
 
 The given assignment this week was to grab an artifact from the bin in class and make a snap fit that attaches to the artifact. The artifact chosen was a gear with a mount that I intent to make a better more custom mount for that can stand it up. The artifact is shown below.
 
-[IMAGE OF ARTIFACT HERE]
+<img width="375" height="445" alt="Screenshot 2026-09-28 153624" src="https://github.com/user-attachments/assets/c063a62b-d0aa-48bb-bf9d-23d1edbb2bf0" />
 
 Measurements for this assignment were taken with a Neiko digital caliper found at the end of this assignment and shown below.
 
-[IMAGE OF CALIPER HERE]
+<img width="503" height="308" alt="Screenshot 2026-09-28 153804" src="https://github.com/user-attachments/assets/ee94ecb6-157b-465a-91e9-02aed66e375e" />
 
 ## Parametric Design
 
@@ -87,6 +87,10 @@ The pictures/video of the printing process are shown below, as well as the final
 
 
 ## Lessons Learned
+
+## References
+
+- https://www.amazon.com/Neiko-01407A-Electronic-Digital-Stainless/dp/B000GSLKIW/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.SHbnhkINMRgAbv3QFeu9nAd8ZSzRob5H4BOviBWtQnCDut8K-w2KFRkH48cqEP_9vSqEu6AtQOpjXr_ACuKfpcekFgl3bwMazoeu50aG9yosXj0cwB9UIn54C7SEATRubrlt6PjOmFNcCx9rU1mjCJc9COrLAtZ0fpJ-HpD_wHBm8nxo6MEMkOKqDJ71MOKqF6qtQk3xmBLLukhUEl5FiCiA0SJ0cNXL1Y6Uv1Vlw8o._en8Hl9UzuDIuFUkbr6o128ZqBLhdV0Wbr2aURRJVU0&dib_tag=se&keywords=neiko%2Bdigital%2Bcaliper&qid=1790624263&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
 
 
 
