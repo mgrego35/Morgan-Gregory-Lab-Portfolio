@@ -14,7 +14,13 @@ Measurements for this assignment were taken with a Neiko digital caliper found a
 
 To begin the parametric designing phase, I started by taking the measurements of the base and adding them to my variables list.
 
-[IMAGE OF GLOBAL VARIABLES HERE]
+<img width="747" height="122" alt="Screenshot 2026-09-28 151024" src="https://github.com/user-attachments/assets/7c862cde-6e27-4f68-a02d-8cdb8c06fa82" />
+
+Next I created a sketch of the top view. I began with this because it was easily the hardest geometry to produce and I could easily cut out rectangles from the sides instead of trying to do it a much harder way. The first top view sketch is shown below.
+
+<img width="780" height="534" alt="Screenshot 2026-09-28 020431" src="https://github.com/user-attachments/assets/9de91178-d644-4659-8829-3651394fb108" />
+
+
 
 
 
