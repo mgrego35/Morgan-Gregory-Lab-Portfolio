@@ -60,6 +60,40 @@ The finished model is linked in the references section and is shown below.
 
 
 
+## Printing
+
+The pictures/video of the printing process are shown below, as well as the final product unattached and attached.
+
+<img width="408" height="550" alt="Screenshot 2026-09-28 153642" src="https://github.com/user-attachments/assets/a9c0e616-8d5a-45e4-a1e6-1400115e0795" />
+
+
+
+
+<video controls width="320" src="https://github.com/user-attachments/assets/bc23fb6f-ea1c-47a4-b61d-b130ef605c10"></video>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Lessons Learned
+
+
+
+
+
+
+
 
 
 
