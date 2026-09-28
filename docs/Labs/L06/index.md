@@ -76,7 +76,9 @@ The pictures/video of the printing process are shown below, as well as the final
 
 ## Lessons Learned
 
-The main lesson I learned from this project was to focus on the most complex geometry to make first then focus on building around it in SolidWorks. I learned this by struggling to find a way to create the model the first time because of the part of the snap fit that I tried to start with.
+The main lesson I learned from this project was to focus on the most complex geometry to make first then focus on building around it in SolidWorks. I learned this by struggling to find a way to create the model the first time because of the part of the snap fit that I tried to start with. The final CAD model for this project is given below.
+
+[Gear Mount.zip](https://github.com/user-attachments/files/32770916/Gear.Mount.zip)
 
 Time to finish was about 4-5 hours.
 
