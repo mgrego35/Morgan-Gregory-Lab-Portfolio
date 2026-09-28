@@ -52,13 +52,15 @@ The finished model is linked in the references section and is shown below.
 
 ## Preprocessing
 
+Preprocessing required some decisions for this part. I started by choosing the standard gyroid infill I always use for good strength in all directions.
 
+<img width="510" height="186" alt="Screenshot 2026-09-28 140730" src="https://github.com/user-attachments/assets/cfec5fc6-0b90-428c-b04c-84e5dc40de04" />
 
+I did however, need to use support materials in the gaps. It was possible to orient the print differently, but the lines being on the cross sections of the beams would have likely lead to failure or could have caused problems down the line. To play it safe I generated support material, and the final details and orientation are shown below.
 
+<img width="424" height="190" alt="Screenshot 2026-09-28 140736" src="https://github.com/user-attachments/assets/fa272a82-0115-4b34-815b-a1a36aa2572d" />
 
-
-
-
+<img width="960" height="472" alt="Screenshot 2026-09-28 140911" src="https://github.com/user-attachments/assets/582e7293-824f-4b9e-a850-3c666946c7cb" />
 
 ## Printing
 
@@ -66,27 +68,17 @@ The pictures/video of the printing process are shown below, as well as the final
 
 <img width="408" height="550" alt="Screenshot 2026-09-28 153642" src="https://github.com/user-attachments/assets/a9c0e616-8d5a-45e4-a1e6-1400115e0795" />
 
-
-
-
 <video controls width="320" src="https://github.com/user-attachments/assets/bc23fb6f-ea1c-47a4-b61d-b130ef605c10"></video>
 
+[IMAGE OF UNATTACHED HERE]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+[IMAGE OF ATTACHED HERE]
 
 ## Lessons Learned
+
+The main lesson I learned from this project was to focus on the most complex geometry to make first then focus on building around it in SolidWorks. I learned this by struggling to find a way to create the model the first time because of the part of the snap fit that I tried to start with.
+
+Time to finish was about 4-5 hours.
 
 ## References
 
