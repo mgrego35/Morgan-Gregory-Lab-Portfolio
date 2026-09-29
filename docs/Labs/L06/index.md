@@ -70,9 +70,9 @@ The pictures/video of the printing process are shown below, as well as the final
 
 <video controls width="320" src="https://github.com/user-attachments/assets/bc23fb6f-ea1c-47a4-b61d-b130ef605c10"></video>
 
-[IMAGE OF UNATTACHED HERE]
+<img width="520" height="630" alt="Screenshot 2026-09-29 094701" src="https://github.com/user-attachments/assets/b002ecef-7213-474a-9cfc-2eb43ef91b7c" />
 
-[IMAGE OF ATTACHED HERE]
+<img width="552" height="735" alt="Screenshot 2026-09-29 094655" src="https://github.com/user-attachments/assets/fae276fc-16af-4266-907b-97c69d459a44" />
 
 ## Lessons Learned
 
