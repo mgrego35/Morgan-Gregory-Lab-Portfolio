@@ -26,7 +26,7 @@ The mechanism shown in the images below uses strings and certain angles on the l
 
 ## Design
 
-The thing I wanted to design was a cycloidal drive, such as the one shown below. Cycloidal drives results in lots more torque without the horizontal space of using gears or the danger of the teeth breaking due to the sharper edges.
+The thing I wanted to design was a cycloidal drive, such as the one shown below. Cycloidal drives results in lots more torque without the horizontal space of using gears or the danger of the teeth breaking due to the sharper edges. I am interested in learning the design for this in order to further my own future projects. I would like to create somewhat of a cycloidal drive template using the parametric modeling in SolidWorks so I can easily create some for my own robotics projects at home. This design should allow for large amounts of torque and create smoother movement.
 
 <img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/00b2adf3-0881-473f-8da4-44d4242bdd5b" />
 
