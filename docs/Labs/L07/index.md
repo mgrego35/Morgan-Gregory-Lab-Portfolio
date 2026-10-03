@@ -24,6 +24,20 @@ The mechanism shown in the images below uses strings and certain angles on the l
 
 <img width="875" height="476" alt="image" src="https://github.com/user-attachments/assets/45e838fe-e200-4c5d-a7c1-a1d9463d85d6" />
 
+## Design
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -41,6 +55,8 @@ The mechanism shown in the images below uses strings and certain angles on the l
 
 
 ## References
+
+- https://mechanicaldesign101.com/linkage-designs/
 
 - https://mechanicaldesign101.com/2017/05/05/flapping-wing-mechanism/
 
