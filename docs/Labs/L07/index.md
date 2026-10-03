@@ -16,7 +16,14 @@ The mechanism shown above is a flapping wing design that allows for more efficie
 
 <img width="750" height="344" alt="Screenshot 2026-10-03 192333" src="https://github.com/user-attachments/assets/4c951469-373d-4127-a4f5-a753315fa5d3" />
 
-Linkage 2: 
+Linkage 2: XStrings Multi-Directional Tentacle Actuation
+
+https://hcie.csail.mit.edu/research/xstrings/xstrings.html
+
+The mechanism shown in the images below uses strings and certain angles on the linkages to allow for bending in multiple directions.
+
+<img width="875" height="476" alt="image" src="https://github.com/user-attachments/assets/45e838fe-e200-4c5d-a7c1-a1d9463d85d6" />
+
 
 
 
@@ -35,5 +42,6 @@ Linkage 2:
 
 ## References
 
-- 
 - https://mechanicaldesign101.com/2017/05/05/flapping-wing-mechanism/
+
+- https://hcie.csail.mit.edu/research/xstrings/xstrings.html
