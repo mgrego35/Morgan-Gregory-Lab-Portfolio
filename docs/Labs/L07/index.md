@@ -109,7 +109,7 @@ I printed on printer number 12 and the printing process is shown below.
 
 <img width="498" height="665" alt="Screenshot 2026-10-06 114412" src="https://github.com/user-attachments/assets/a11daf76-fa5d-400e-9d0f-3525db1d1281" />
 
-
+<video controls width="320" src="https://github.com/user-attachments/assets/4b32ba19-707e-44c8-9186-58b3ee49ecab"></video>
 
 Final assembly shown here:
 
@@ -117,23 +117,9 @@ Final assembly shown here:
 
 <img width="482" height="471" alt="Screenshot 2026-10-06 114422" src="https://github.com/user-attachments/assets/a594cd33-bdb1-474c-b414-11545132ad9c" />
 
+## Lessons Learned
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+This project has taught me a great deal. The first and foremost important lesson was to always check the printer. I did not get a picture unfortunately but the filament spool got caught up/tangled and it caused the extruder to not pull properly, ruining my first print and wasting time. The second major lesson was to always take into account smaller pieces may have to use different tolerances because they may not print the same as bigger pieces. The spacer did not work out and I had to use washers to cover the gap.
 
 ## References
 
