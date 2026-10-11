@@ -6,6 +6,8 @@ Important questions are needed for design because they reveal important details.
 
 ## Problem Statement
 
+### Rail Design
+
 There is a very common psychological concept that your space reflects your mind. My mind can sometimes feel scattered when I am at home due to my desk that always seems to be full of stuff. I noticed this when I was trying to find a certain kind of file for one of my prints, and could not find the correct one due to being disorganized. The target audience for this product is disorganized individuals looking to clean their desk setup without spending lots of money on drawers, filing cabinets, etc. My approach will be to make a modular drawer system for my desk, that I can keep standard dimensions in case I need to create another shelf. There will be a standard shelf available with an area to put a label on the front where the handle is, but for myself I want to make specific types such as ones to hold my files that keep the same base dimensions but have added fits inside for things I use frequently and need to keep more organized. I will also make things such as a paper tray bottom to the modular setup. My design on the outside I want to look like the drawer system shown below, but also work like a pizza peel where I can slide parts out.
 
 <img width="473" height="402" alt="Screenshot 2026-10-10 233854" src="https://github.com/user-attachments/assets/9ff82dd9-efad-4edb-936d-87fab6a059a0" />
@@ -46,7 +48,7 @@ The next thing I did was create the pin holes using the sketch below, extruding 
 
 <img width="1050" height="578" alt="Screenshot 2026-10-11 185530" src="https://github.com/user-attachments/assets/1ea9522e-a0fd-429b-84c5-884a43362384" />
 
-
+###
 
 
 
