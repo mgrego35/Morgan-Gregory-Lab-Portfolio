@@ -10,7 +10,11 @@ There is a very common psychological concept that your space reflects your mind.
 
 <img width="473" height="402" alt="Screenshot 2026-10-10 233854" src="https://github.com/user-attachments/assets/9ff82dd9-efad-4edb-936d-87fab6a059a0" />
 
-#### Design
+## Design
+
+To begin the design process, I need to choose which piece to design first. There should be 3 main things to design (the rails, the drawers themselves, and the top piece). The first thing I want to design is the actual stacking side rails. This will include a bottom piece that covers the drawer below, and the rails coming up from the sides.
+
+I started in SolidWorks as I do with every part, changing the units to inches and the accuracy to three decimal points. I like to do this because it fits with my caliper and allows me to make fits properly. Next, I created the sketch below. This is the most complex geometry to create.
 
 
 
