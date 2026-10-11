@@ -34,7 +34,9 @@ Next I created a sketch for the pins to connect the drawers, and extruded them b
 
 <img width="1917" height="843" alt="Screenshot 2026-10-11 182347" src="https://github.com/user-attachments/assets/8a10f169-9100-4363-af47-97e3d3d0736b" />
 
+<img width="1182" height="647" alt="Screenshot 2026-10-11 182458" src="https://github.com/user-attachments/assets/e07abb50-40e8-4942-ac6a-ee4411789ce3" />
 
+<img width="640" height="262" alt="Screenshot 2026-10-11 183921" src="https://github.com/user-attachments/assets/e6474873-5234-4899-9a26-20ecbc76384e" />
 
 
 
