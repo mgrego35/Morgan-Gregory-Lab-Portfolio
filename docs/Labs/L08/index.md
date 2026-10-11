@@ -18,6 +18,27 @@ I started in SolidWorks as I do with every part, changing the units to inches an
 
 <img width="1227" height="638" alt="Screenshot 2026-10-11 003212" src="https://github.com/user-attachments/assets/d68a7686-d558-4a87-8953-ceecc431364c" />
 
+Next thing I did was extrude it by 8 inches.
+
+<img width="1916" height="841" alt="Screenshot 2026-10-11 181604" src="https://github.com/user-attachments/assets/7ac2e057-643e-4bee-b812-4663f6824edb" />
+
+I then created a sketch from the back of the part in order to form the back of the drawer system. Then I extruded it by .5 inches.
+
+<img width="1208" height="510" alt="Screenshot 2026-10-11 181708" src="https://github.com/user-attachments/assets/eea24bfd-a86f-4ed0-a90c-8fea0d7b751e" />
+
+<img width="1919" height="869" alt="Screenshot 2026-10-11 181755" src="https://github.com/user-attachments/assets/b44a46c5-b980-4c97-9770-b18a2787c0e0" />
+
+Next I created a sketch for the pins to connect the drawers, and extruded them by .5 inches. I then created a fillet with a radius of .05 on all of the pin tops and a fillet of .01 on all the pin bottoms. The pins were susceptible to failure at the base but the fillet prevents this.
+
+<img width="1272" height="706" alt="Screenshot 2026-10-11 182323" src="https://github.com/user-attachments/assets/c854fdb9-e919-4b25-8e2f-63649889b253" />
+
+<img width="1917" height="843" alt="Screenshot 2026-10-11 182347" src="https://github.com/user-attachments/assets/8a10f169-9100-4363-af47-97e3d3d0736b" />
+
+
+
+
+
+
 
 
 
