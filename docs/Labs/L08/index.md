@@ -16,6 +16,7 @@ To begin the design process, I need to choose which piece to design first. There
 
 I started in SolidWorks as I do with every part, changing the units to inches and the accuracy to three decimal points. I like to do this because it fits with my caliper and allows me to make fits properly. Next, I created the sketch below. This is the most complex geometry to create.
 
+<img width="1227" height="638" alt="Screenshot 2026-10-11 003212" src="https://github.com/user-attachments/assets/d68a7686-d558-4a87-8953-ceecc431364c" />
 
 
 
