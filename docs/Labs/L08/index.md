@@ -10,16 +10,7 @@ There is a very common psychological concept that your space reflects your mind.
 
 <img width="473" height="402" alt="Screenshot 2026-10-10 233854" src="https://github.com/user-attachments/assets/9ff82dd9-efad-4edb-936d-87fab6a059a0" />
 
-
-
-
-
-
-
-
-
-
-
+### Design
 
 
 
