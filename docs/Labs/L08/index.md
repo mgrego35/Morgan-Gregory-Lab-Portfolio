@@ -12,7 +12,7 @@ There is a very common psychological concept that your space reflects your mind.
 
 ## Design
 
-### Rail Design
+### Rail Design:
 
 To begin the design process, I need to choose which piece to design first. There should be 3 main things to design (the rails, the drawers themselves, and the top piece). The first thing I want to design is the actual stacking side rails. This will include a bottom piece that covers the drawer below, and the rails coming up from the sides.
 
@@ -48,7 +48,9 @@ The next thing I did was create the pin holes using the sketch below, extruding 
 
 <img width="1050" height="578" alt="Screenshot 2026-10-11 185530" src="https://github.com/user-attachments/assets/1ea9522e-a0fd-429b-84c5-884a43362384" />
 
-###
+### Drawer Design:
+
+
 
 
 
