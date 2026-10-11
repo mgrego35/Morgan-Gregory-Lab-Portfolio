@@ -38,7 +38,7 @@ Next I created a sketch for the pins to connect the drawers, and extruded them b
 
 <img width="640" height="262" alt="Screenshot 2026-10-11 183921" src="https://github.com/user-attachments/assets/e6474873-5234-4899-9a26-20ecbc76384e" />
 
-
+The next thing I did was create the pin holes using the sketch below, extruding it by .505 inches in order to have some extra clearance. The sliding fit was given .002 inches of clearance to give an easier sliding fit.
 
 
 
