@@ -50,17 +50,31 @@ The next thing I did was create the pin holes using the sketch below, extruding 
 
 ### Drawer Design:
 
+To begin the drawer design, I made the front geometry using the sketch below and then extruded it.
 
+<img width="1202" height="536" alt="Screenshot 2026-10-11 192910" src="https://github.com/user-attachments/assets/f5cf6548-9c38-48f1-846f-97ea4aee9ff4" />
 
+<img width="1918" height="842" alt="Screenshot 2026-10-11 193432" src="https://github.com/user-attachments/assets/c823aaa2-d8ab-49ae-86b2-e39d80f155d3" />
 
+I then added walls to the front and back, then created the handle using the sketches and extrusions below.
 
+<img width="777" height="563" alt="Screenshot 2026-10-11 193750" src="https://github.com/user-attachments/assets/c6bc16cb-4ade-491f-a77b-486abd8a5fdd" />
 
+<img width="1362" height="732" alt="Screenshot 2026-10-11 193958" src="https://github.com/user-attachments/assets/19aaa4a9-3488-4536-a1c9-548a58fcb174" />
 
+<img width="1288" height="588" alt="Screenshot 2026-10-11 194423" src="https://github.com/user-attachments/assets/0227af97-7407-4bf9-9b11-e66d87e65fa3" />
 
+<img width="248" height="80" alt="Screenshot 2026-10-11 194310" src="https://github.com/user-attachments/assets/b843ab78-e2bf-4f13-ad7a-b91e3c9f2413" />
 
+<img width="1918" height="840" alt="Screenshot 2026-10-11 194540" src="https://github.com/user-attachments/assets/fd5d0b17-8bf1-4054-bba9-37ea49b39abe" />
 
+<img width="1523" height="572" alt="Screenshot 2026-10-11 195750" src="https://github.com/user-attachments/assets/1b4be35d-5831-4826-9220-ac3bdb3b16c8" />
 
+<img width="461" height="414" alt="Screenshot 2026-10-11 195937" src="https://github.com/user-attachments/assets/054f1dc3-6142-41e9-b8b2-0dd435444f6a" />
 
+<img width="443" height="294" alt="Screenshot 2026-10-11 200215" src="https://github.com/user-attachments/assets/db12a104-c2d3-4a90-a834-9716c094ac67" />
+
+<img width="1247" height="595" alt="Screenshot 2026-10-11 200407" src="https://github.com/user-attachments/assets/c9ad637d-e906-49a4-b4f5-8e6c2071bd8e" />
 
 
 
