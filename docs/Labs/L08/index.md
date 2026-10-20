@@ -28,21 +28,17 @@ My final, easy step was to use the shell tool to shell the insides out and leave
 
 <img width="677" height="416" alt="Screenshot 2026-10-19 174548" src="https://github.com/user-attachments/assets/8a0fab5a-9fdf-485f-b1c6-f3c97b08c803" />
 
+[File Cup.zip](https://github.com/user-attachments/files/33699713/File.Cup.zip)
 
+## 3D Print
 
+No big settings were changed for this print other than using a 5% gyroid infill. This was used because it allows for decent strength in all directions, and at some point I may use something that needs the added strength inside the cup.
 
+<img width="499" height="186" alt="Screenshot 2026-10-19 181211" src="https://github.com/user-attachments/assets/3feb80ac-bd26-44b1-aff4-dcf4b82b8463" />
 
+Final product shown below.
 
-
-
-
-
-
-
-
-
-
-
+[IMAGE OF FINAL PART SHOWN HERE]
 
 ## References
 
