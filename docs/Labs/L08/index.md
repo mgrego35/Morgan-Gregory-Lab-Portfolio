@@ -16,7 +16,28 @@ I began the design process by creating a sketch of the cross section from the ri
 
 <img width="735" height="804" alt="Screenshot 2026-10-19 174156" src="https://github.com/user-attachments/assets/95e0a6ef-0a93-4bb4-81f7-0e477cb0acfd" />
 
-Next I decided to extrude the cross se
+Next I decided to extrude the cross section by 2.5 inches. This gives plenty of room for .25 in wall thickness.
+
+<img width="1918" height="855" alt="Screenshot 2026-10-19 174347" src="https://github.com/user-attachments/assets/1a596b7c-58e8-4d62-b2aa-eadfbbdc1f52" />
+
+My final, easy step was to use the shell tool to shell the insides out and leave a .25 in wall thickness. The final result is shown and linked below.
+
+<img width="1918" height="809" alt="Screenshot 2026-10-19 174437" src="https://github.com/user-attachments/assets/ea120aa3-d65e-42dc-823e-4b07bd5c1c81" />
+
+<img width="806" height="557" alt="Screenshot 2026-10-19 174447" src="https://github.com/user-attachments/assets/9f455c7e-32e2-4247-9f57-5a47897bcfe2" />
+
+<img width="677" height="416" alt="Screenshot 2026-10-19 174548" src="https://github.com/user-attachments/assets/8a0fab5a-9fdf-485f-b1c6-f3c97b08c803" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
