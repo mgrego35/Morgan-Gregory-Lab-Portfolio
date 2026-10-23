@@ -17,5 +17,5 @@ My group consisted of Lexie Cox, Ethan Cornett, and I.
 
 ## Lessons Learned
 
-10/23/26
+10/23/26 - 
 
