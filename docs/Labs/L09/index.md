@@ -26,8 +26,9 @@ Kerf is material the laser burns away when cutting. It may be a very small amoun
 
 D = 20 mm
 
-x direction - 20 mm - 
+x direction - 20 mm - 19.90 mm = .10 mm
 
+y direction - 20 mm - 19.98 mm = .02 mm
 
 
 ## Decide
