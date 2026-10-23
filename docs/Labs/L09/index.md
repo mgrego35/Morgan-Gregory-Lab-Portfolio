@@ -14,11 +14,11 @@ Took 3 different sheets of the same kind we are going to cut. Measurements shown
 
 t<sub>1</sub> = .105 inches
 
-t2 = .108 inches
+t<sub>2</sub> = .108 inches
 
-t3 = .107 inches
+t<sub>3</sub> = .107 inches
 
-tavg = .107 inches.
+t<sub>average</sub> = .107 inches.
 
 ## Decide
 
