@@ -12,7 +12,7 @@ My group consisted of Lexie Cox, Ethan Cornett, and I.
 
 Took 3 different sheets of the same kind we are going to cut. Measurements shown below:
 
-t1 = .105 inches
+t<sub>1</sub> = .105 inches
 
 t2 = .108 inches
 
