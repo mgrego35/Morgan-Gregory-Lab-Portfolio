@@ -10,10 +10,14 @@ My group consisted of Lexie Cox, Ethan Cornett, and I.
 
 ### Measuring the Material Thickness
 
-Took 3 different sheets of the same kind we are going to cut. Measurements shown below
+Took 3 different sheets of the same kind we are going to cut. Measurements shown below:
+
 t1 = .105 inches
+
 t2 = .108 inches
+
 t3 = .107 inches
+
 tavg = .107 inches.
 
 ## Decide
