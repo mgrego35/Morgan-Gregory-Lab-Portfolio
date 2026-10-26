@@ -117,13 +117,31 @@ The final cut plan in Inkscape is shown below, including planned placements for 
 
 This process was taught by a member of the super fabrication lab. It is important this workflow is followed to ensure safety.
 
-For both the Kerf and Fit coupons we used the same Settings. These are shown below.
+The Excel table showing the details of our manufacturing processes are shown below.
+
+[SCREENSHOT OF FINISHED EXCEL TABLE HERE]
+
+An image of our test cut is shown below.
+
+[IMAGE OF TEST CUT HERE]
+
+An image of our final cut is shown below, as well as a video showing the printing process.
+
+[VIDEO OF FINAL CUT IN PRINTER]
+
+[IMAGE OF FINAL CUT OUT OF PRINTER]
+
+[IMAGE SHOWING FITS]
+
+The manufacturing process took a while to get right. There were noticeable differences in the amount of smoke that was left in the printer when the vent was left shut, or the pump was not activated. Fixing this dissipated the smoke incredibly quick. We chose to keep the wood in the back left corner in order to keep consistency. The wood was not very burnt once we moved the z axis up slightly. the burning likely became worse up close to the wood, and was not as bad once it was not almost touching. This was because the one area of the wooden board was sticking up.
 
 ## Lessons Learned
 
-10/23/26 - Completed Steps 1 and 2 and the documentation for these steps.
+10/23/26 - Completed Steps 1 and 2 and the documentation for these steps. This took roughly 2 hours.
 
-10/26/26 - Completed Steps 3-4 and designed the pieces to be cut out and the documentation for these steps.
+10/26/26 - Completed Steps 3-4 and designed the pieces to be cut out and the documentation for these steps. This took roughly 3 hours.
 
-10/27/26 - Performed final cut and finished documentation.
+10/27/26 - Performed final cut and finished documentation. This took roughly 1 hour.
+
+I learned several lessons throughout this project. The time
 
