@@ -70,7 +70,7 @@ Finally I added the y values, which were relatively unimportant due to the y cle
 
 ## Manufacturing
 
-The process of printing is the following:
+### The process of printing is the following:
 
 1. Open all vents to allow flow
 2. Turn on pump beneath printer
@@ -80,7 +80,8 @@ The process of printing is the following:
 6. Use ctrl + P to print in inkscape
 7. Send it to the Epilog cutter (select the material settings)
 8. Wait for cutter to finish after pressing start
-9. 
+9. Wait for most of the smoke to leave
+10. Open once it is safe and retrieve part.
 
 ## Lessons Learned
 
