@@ -44,6 +44,28 @@ Tight Fit: D = t<sub>average</sub> + x<sub>0</sub> - K<sub>x</sub> - .05 mm
 
 For the tight fit this turned out to be D = 2.718 mm + 10 mm - .10 mm - .05 mm = 12.568 mm
 
+[IMAGE HERE]
+
+Next I added the next 10 mm little tab to give them some space. Then I started the normal fit shown below.
+
+Normal Fit: D = t<sub>average</sub> + x<sub>0</sub> - K<sub>x</sub>
+
+For the normal fit this became D = 2.718 mm + 22.568 mm - .10 mm = 25.186 mm
+
+[IMAGE HERE]
+
+Then I added the next 10 mm space, and did the loose fit calculations, this time ADDING .05 mm to the fit.
+
+Loose Fit: D = t<sub>average</sub> + x<sub>0</sub> - K<sub>x</sub> + .05 mm
+
+For the loose fit this came out to be D = 2.718 mm + 35.186 mm - .10 mm + .005 mm = 37.809 mm
+
+I added the loose fit dimensions and then added the 10 mm final piece. 
+
+[IMAGE HERE]
+
+
+
 ## Manufacturing
 
 
