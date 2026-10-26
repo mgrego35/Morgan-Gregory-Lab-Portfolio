@@ -70,7 +70,20 @@ Finally I added the y values, which were relatively unimportant due to the y cle
 
 ## Manufacturing
 
+The process of printing is the following:
+
+1. Open all vents to allow flow
+2. Turn on pump beneath printer
+3. Turn on printer
+4. Center Let printer auto align
+5. plug printer into computer
+6. Use ctrl + P to print in inkscape
+7. Send it to the Epilog cutter (select the material settings)
+8. Wait for cutter to finish after pressing start
+9. 
+
+## Lessons Learned
 
 10/23/26 - Completed Steps 1 and 2.
-10/25/26
+10/26/26 - Completed
 
