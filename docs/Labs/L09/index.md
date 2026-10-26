@@ -72,6 +72,34 @@ Finally I added the y values, which were relatively unimportant due to the y cle
 
 The fit test showed that the best clearance was between the 0 and .005 mm range. The chosen clearance was .002 in order to balance having too much clearance and too little. This will allow the parts to fall in with only minor pressure but will prevent them from falling apart easily.
 
+### Designing the Final Cut
+
+To begin the final cut I decided to add my parameters into SolidWorks.
+
+<img width="923" height="146" alt="Screenshot 2026-10-26 173625" src="https://github.com/user-attachments/assets/4530dd92-8a7b-49d8-810a-d335219a35e9" />
+
+Next I created a sketch for the square shaped piece to be designed, which is shown below, after I put the parameters and equations in. I made sure all side lengths that needed to be equal were, and I used the x and y kerf differences when calculating the x and y widths. The x widths are slightly smaller because there was more kerf meaning more material will get burned away during the cutting process.
+
+<img width="892" height="645" alt="Screenshot 2026-10-26 172024" src="https://github.com/user-attachments/assets/23c9136d-8d9f-44d7-8e5a-35d1cde45768" />
+
+Proof of parametric modeling is shown below, I added 3 in for my thickness instead of 2.718 and as you can see the equation changed accordingly.
+
+<img width="802" height="600" alt="Screenshot 2026-10-26 182114" src="https://github.com/user-attachments/assets/8fa7da75-d30a-4b8c-ab5a-a4dad27ae804" />
+
+<img width="875" height="643" alt="Screenshot 2026-10-26 182154" src="https://github.com/user-attachments/assets/650b4146-b42c-4c79-8a1b-8823e82a1235" />
+
+I then designed the second sketch in SolidWorks which was the triangular piece. The variables were kept the same and the triangle sketch is shown below.
+
+<img width="813" height="603" alt="Screenshot 2026-10-26 175124" src="https://github.com/user-attachments/assets/95f67fdc-22c6-4368-8d1b-fc2b916337b0" />
+
+Last thing that needed to be designed was the sketch for the other piece. The sketch is shown below. The same parameters were used.
+
+[IMAGE OF SPECIAL TRIANGLE PIECE HERE]
+
+The final cut plan in Inkscape is shown below, including planned placements for all the parts. We tried to keep material waste to a minimum without compromising on quality.
+
+[IMAGE OF FINAL INKSCAPE PLAN HERE]
+
 ## Manufacturing, including Process Research
 
 ### The process of printing is the following:
