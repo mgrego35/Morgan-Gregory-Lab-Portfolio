@@ -30,6 +30,18 @@ x direction - 20 mm - 19.90 mm = .10 mm
 
 y direction - 20 mm - 19.98 mm = .02 mm
 
+### Fit Test
+
+For the fit test, I created a shape like the one below and changed the top left corner to the origin coordinates in order to get a good starting place. I then moved points one by one relative to each other in order to get the dimensions I wanted.
+
+[FIRST IMAGE (MOVING THE PIECES)]
+
+[SECOND IMAGE (SKETCH OF THE PART)]
+
+There were 3 fits to make, a tight fit, a target fit, and a loose fit. I began with the tight fit using the calculations below, where K is the kerf
+
+Tight Fit: Distance = t<sub>average</sub> + x<sub>0</sub> - K<sub>x</sub>
+
 ## Manufacturing
 
 
