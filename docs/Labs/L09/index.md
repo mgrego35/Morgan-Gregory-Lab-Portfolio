@@ -119,21 +119,11 @@ This process was taught by a member of the super fabrication lab. It is importan
 
 For both the Kerf and Fit coupons we used the same Settings. These are shown below.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Lessons Learned
 
-10/23/26 - Completed Steps 1 and 2.
-10/26/26 - Completed
+10/23/26 - Completed Steps 1 and 2 and the documentation for these steps.
+
+10/26/26 - Completed Steps 3-4 and designed the pieces to be cut out and the documentation for these steps.
+
+10/27/26 - Performed final cut and finished documentation.
 
