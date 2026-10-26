@@ -38,9 +38,11 @@ For the fit test, I created a shape like the one below and changed the top left 
 
 [SECOND IMAGE (SKETCH OF THE PART)]
 
-There were 3 fits to make, a tight fit, a target fit, and a loose fit. I began with the tight fit using the calculations below, where K is the kerf
+There were 3 fits to make, a tight fit, a target fit, and a loose fit. I began with the tight fit using the calculations below, where K is the kerf and D is the clearance or distance between the pegs.
 
-Tight Fit: Distance = t<sub>average</sub> + x<sub>0</sub> - K<sub>x</sub>
+Tight Fit: D = t<sub>average</sub> + x<sub>0</sub> - K<sub>x</sub> - .05 mm
+
+For the tight fit this turned out to be D = 2.718 mm + 10 mm - .10 mm - .05 mm = 12.568 mm
 
 ## Manufacturing
 
