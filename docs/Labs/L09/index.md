@@ -92,7 +92,7 @@ This process was taught by a member of the super fabrication lab. It is importan
 For both the Kerf and Fit coupons we used the same Settings. These are shown below.
 
 -----------------------------------------
-| Setting | Kerf/Fit Coupon | Final Cut |
+|     Setting    | Kerf/Fit Coupon | Final Cut |
 -----------------------------------------
 | Laser Cutter # |
 -----------------------------------------
