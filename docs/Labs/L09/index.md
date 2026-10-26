@@ -34,9 +34,7 @@ y direction - 20 mm - 19.98 mm = .02 mm
 
 For the fit test, I created a shape like the one below and changed the top left corner to the origin coordinates in order to get a good starting place. I then moved points one by one relative to each other in order to get the dimensions I wanted.
 
-[FIRST IMAGE (MOVING THE PIECES)]
-
-[SECOND IMAGE (SKETCH OF THE PART)]
+<img width="844" height="429" alt="Screenshot 2026-10-26 121556" src="https://github.com/user-attachments/assets/30a22207-7f3c-47e8-9c81-c6121c99032c" />
 
 There were 3 fits to make, a tight fit, a target fit, and a loose fit. I began with the tight fit using the calculations below, where K is the kerf and D is the clearance or distance between the pegs.
 
@@ -44,15 +42,15 @@ Tight Fit: D = t<sub>average</sub> + x<sub>0</sub> - K<sub>x</sub> - .05 mm
 
 For the tight fit this turned out to be D = 2.718 mm + 10 mm - .10 mm - .05 mm = 12.568 mm
 
-[IMAGE HERE]
+<img width="712" height="343" alt="Screenshot 2026-10-26 123234" src="https://github.com/user-attachments/assets/0ea4552e-46ef-4dc1-87fe-69a00aaeafe3" />
 
-Next I added the next 10 mm little tab to give them some space. Then I started the normal fit shown below.
+The 10 mm space is shown in the picture above. Then I started the normal fit shown below.
 
 Normal Fit: D = t<sub>average</sub> + x<sub>0</sub> - K<sub>x</sub>
 
 For the normal fit this became D = 2.718 mm + 22.568 mm - .10 mm = 25.186 mm
 
-[IMAGE HERE]
+<img width="682" height="335" alt="Screenshot 2026-10-26 123510" src="https://github.com/user-attachments/assets/226dd90e-fcef-464c-9af1-c24d156e75f7" />
 
 Then I added the next 10 mm space, and did the loose fit calculations, this time ADDING .05 mm to the fit.
 
@@ -62,9 +60,13 @@ For the loose fit this came out to be D = 2.718 mm + 35.186 mm - .10 mm + .005 m
 
 I added the loose fit dimensions and then added the 10 mm final piece. 
 
-[IMAGE HERE]
+<img width="778" height="401" alt="Screenshot 2026-10-26 123539" src="https://github.com/user-attachments/assets/b8e2500b-c897-4b83-8c4c-2f05c77cdc0f" />
 
+<img width="517" height="396" alt="Screenshot 2026-10-26 123847" src="https://github.com/user-attachments/assets/d171377d-6d56-45ec-b7d4-7d01f0d96ff1" />
 
+Finally I added the y values, which were relatively unimportant due to the y clearance not being a factor in the fit. I gave it 20 mm deep and 10 mm of a barrier at the bottom. Final part is shown below.
+
+<img width="417" height="206" alt="Screenshot 2026-10-26 124236" src="https://github.com/user-attachments/assets/0cdf7cee-97d0-44c2-ab20-fd3227eccf08" />
 
 ## Manufacturing
 
