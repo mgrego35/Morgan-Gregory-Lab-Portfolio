@@ -68,11 +68,15 @@ Finally I added the y values, which were relatively unimportant due to the y cle
 
 <img width="417" height="206" alt="Screenshot 2026-10-26 124236" src="https://github.com/user-attachments/assets/0cdf7cee-97d0-44c2-ab20-fd3227eccf08" />
 
-## Manufacturing
+### Choosing the Clearance
+
+The fit test showed that the best clearance was between the 0 and .005 mm range. The chosen clearance was .002 in order to balance having too much clearance and too little. This will allow the parts to fall in with only minor pressure but will prevent them from falling apart easily.
+
+## Manufacturing, including Process Research
 
 ### The process of printing is the following:
 
-1. Open all vents to allow flow
+1. Open all vents to allow flow (Make sure handles are parallel)
 2. Turn on pump beneath printer
 3. Turn on printer
 4. Center Let printer auto align
@@ -82,6 +86,14 @@ Finally I added the y values, which were relatively unimportant due to the y cle
 8. Wait for cutter to finish after pressing start
 9. Wait for most of the smoke to leave
 10. Open once it is safe and retrieve part.
+
+This process was taught by a member of the super fabrication lab. It is important this workflow is followed to ensure safety.
+
+For both the Kerf and Fit coupons we used the same Settings. These are shown below.
+
+Setting | Kerf/Fit Coupon | Final Cut
+--------------------------------------
+
 
 ## Lessons Learned
 
