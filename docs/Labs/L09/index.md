@@ -38,5 +38,6 @@ y direction - 20 mm - 19.98 mm = .02 mm
 
 ## Lessons Learned
 
-10/23/26 - 
+10/23/26 - Completed Steps 1 and 2.
+10/25/26
 
