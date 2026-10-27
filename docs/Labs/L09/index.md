@@ -141,5 +141,5 @@ The manufacturing process took a while to get right. There were noticeable diffe
 
 10/27/26 - Performed final cut and finished documentation. This took roughly 1 hour.
 
-I learned several lessons throughout this project. The time to print was much faster but that was almost a negative thing because it allowed for multiple failures instead of us taking the time to fix everything, we only focused on one or two things at once. The second and most important thing I learned was that the 
+I learned several lessons throughout this project. The time to print was much faster but that was almost a negative thing because it allowed for multiple failures instead of us taking the time to fix everything, we only focused on one or two things at once. The second and most important thing I learned was that the kerf of a laser cutter can contribute a significant amount to tolerances and it is important to measure it properly before performing the lab.
 
