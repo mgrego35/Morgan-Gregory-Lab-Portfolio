@@ -26,6 +26,8 @@ Kerf is material the laser burns away when cutting. It may be a very small amoun
 
 D = 20 mm
 
+<img width="307" height="158" alt="Screenshot 2026-10-27 115542" src="https://github.com/user-attachments/assets/4c5b5be8-d2c5-4935-96ad-1b5f7987152f" />
+
 x direction - 20 mm - 19.90 mm = .10 mm
 
 y direction - 20 mm - 19.98 mm = .02 mm
@@ -92,13 +94,13 @@ I then designed the second sketch in SolidWorks which was the triangular piece. 
 
 <img width="813" height="603" alt="Screenshot 2026-10-26 175124" src="https://github.com/user-attachments/assets/95f67fdc-22c6-4368-8d1b-fc2b916337b0" />
 
-Last thing that needed to be designed was the sketch for the other piece. The sketch is shown below. The same parameters were used.
+Last thing that needed to be designed was the sketch for the other piece. The sketch is shown below. The same parameters were used. Ethan Cornett designed this piece.
 
-[IMAGE OF SPECIAL TRIANGLE PIECE HERE]
+<img width="877" height="823" alt="Screenshot 2026-10-27 115129" src="https://github.com/user-attachments/assets/3c836ab9-7701-44cc-a0c5-6265cfd3c45b" />
 
 The final cut plan in Inkscape is shown below, including planned placements for all the parts. We tried to keep material waste to a minimum without compromising on quality.
 
-[IMAGE OF FINAL INKSCAPE PLAN HERE]
+<img width="768" height="350" alt="Screenshot 2026-10-27 114742" src="https://github.com/user-attachments/assets/52496352-3b5e-45e8-b9df-c4f7fcf902e7" />
 
 ## Manufacturing, including Process Research
 
@@ -119,19 +121,15 @@ This process was taught by a member of the super fabrication lab. It is importan
 
 The Excel table showing the details of our manufacturing processes are shown below.
 
-[SCREENSHOT OF FINISHED EXCEL TABLE HERE]
+<img width="607" height="286" alt="Screenshot 2026-10-27 114411" src="https://github.com/user-attachments/assets/038d6257-3f67-43af-b3ae-389120376a64" />
 
 An image of our test cut is shown below.
 
-[IMAGE OF TEST CUT HERE]
+<img width="3024" height="4032" alt="IMG_4175" src="https://github.com/user-attachments/assets/cf8bca0f-dcb6-4384-97c4-23e46e2a4b81" />
 
 An image of our final cut is shown below, as well as a video showing the printing process.
 
-[VIDEO OF FINAL CUT IN PRINTER]
-
-[IMAGE OF FINAL CUT OUT OF PRINTER]
-
-[IMAGE SHOWING FITS]
+<img width="3024" height="4032" alt="IMG_4177" src="https://github.com/user-attachments/assets/cbb69c37-66e7-487d-821d-6976485ddd21" />
 
 The manufacturing process took a while to get right. There were noticeable differences in the amount of smoke that was left in the printer when the vent was left shut, or the pump was not activated. Fixing this dissipated the smoke incredibly quick. We chose to keep the wood in the back left corner in order to keep consistency. The wood was not very burnt once we moved the z axis up slightly. the burning likely became worse up close to the wood, and was not as bad once it was not almost touching. This was because the one area of the wooden board was sticking up.
 
@@ -143,5 +141,5 @@ The manufacturing process took a while to get right. There were noticeable diffe
 
 10/27/26 - Performed final cut and finished documentation. This took roughly 1 hour.
 
-I learned several lessons throughout this project. The time
+I learned several lessons throughout this project. The time to print was much faster but that was almost a negative thing because it allowed for multiple failures instead of us taking the time to fix everything, we only focused on one or two things at once. The second and most important thing I learned was that the 
 
