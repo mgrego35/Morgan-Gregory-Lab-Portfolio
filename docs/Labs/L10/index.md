@@ -10,7 +10,11 @@ The first step was to research RC2 sliding fits in machinerys handbook.
 
 Hole width = 1.200 inches
 
-So clearance is 1.4 thousandths of an inch, and tolerance for the shaft is 
+So clearance is 1.4 thousandths of an inch, tolerance for the shaft is upper limit -.4 thousandths and lower limit -.8 thousandths., and the tolerance for the hole is upper limit +.6 thousandths and lower limit 0 thousandths of an inch.
+
+The sketch I made of my idea is shown below.
+
+
 
 
 
