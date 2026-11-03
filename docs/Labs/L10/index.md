@@ -6,8 +6,6 @@ The first step was to research RC2 sliding fits in machinerys handbook.
 
 <img width="845" height="493" alt="Screenshot 2026-11-02 105500" src="https://github.com/user-attachments/assets/b275182b-f142-4e36-92ff-9b468e84b0d8" />
 
-
-
 Hole width = 1.200 inches
 
 So clearance is 1.4 thousandths of an inch, tolerance for the shaft is upper limit -.4 thousandths and lower limit -.8 thousandths., and the tolerance for the hole is upper limit +.6 thousandths and lower limit 0 thousandths of an inch.
@@ -20,7 +18,7 @@ In a real world engineering application, an RC2 sliding fit would be somewhere t
 
 ## CAD Design
 
-### Designing the Hole
+### Hole Design
 
 To begin, I started by designing the hole part. I started by creating a sketch of a circle with a 1.5 inch diameter and extruded it by 3.150 inches in order to leave room for .150 inches of wall thickness everywhere.
 
@@ -34,11 +32,15 @@ I then added a 1.2 inch diameter hole with the tolerances given from the RC2 sli
 
 <img width="360" height="337" alt="Screenshot 2026-11-02 111313" src="https://github.com/user-attachments/assets/e8c55d4b-7b69-40aa-a306-2f2a64d04026" />
 
-I then realized that this would be way too much volume and shifted focus to making something that could hold a single pill or 2 pills.
+I then realized that this would be way too much volume and shifted focus to making something that could hold a single pill or 2 pills. I changed the length to 1.1 inches.
 
+<img width="770" height="461" alt="Screenshot 2026-11-02 113601" src="https://github.com/user-attachments/assets/f69c5332-654c-48ef-b062-c6c946848927" />
 
+Final image shown below.
 
+<img width="702" height="375" alt="Screenshot 2026-11-02 113954" src="https://github.com/user-attachments/assets/195371b5-2d90-4a0f-bea5-954c7241e8ad" />
 
+### Shaft Design
 
 
 
