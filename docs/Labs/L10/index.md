@@ -42,13 +42,45 @@ Final image shown below.
 
 ### Shaft Design
 
+To begin the shaft design I created a circular sketch with the shaft dimensions which is shown below. I extruded it by .5 inches as shown below.
 
+<img width="778" height="557" alt="Screenshot 2026-11-02 111727" src="https://github.com/user-attachments/assets/99eaadc6-c2f8-405c-973a-13751cc60a3c" />
 
+<img width="1592" height="832" alt="Screenshot 2026-11-02 111855" src="https://github.com/user-attachments/assets/1bc2f69e-a317-47d8-a129-602c0a10f96e" />
 
+I then made a cap for the shaft shown below.
 
+<img width="920" height="472" alt="Screenshot 2026-11-02 114358" src="https://github.com/user-attachments/assets/40acff29-6208-4dd8-8c39-81b25dadabba" />
 
+Final piece shown below.
 
+<img width="1592" height="782" alt="Screenshot 2026-11-02 114521" src="https://github.com/user-attachments/assets/7843eecc-cd47-4036-9c1e-a813040bfda1" />
 
+## Preprocessing for 3D printing
+
+[TALK ABOUT PREPROCESSING HERE]
+
+<img width="1917" height="1018" alt="Screenshot 2026-11-02 114619" src="https://github.com/user-attachments/assets/24234c2d-d12f-4a48-a051-e052521f2f93" />
+
+<img width="1911" height="965" alt="Screenshot 2026-11-02 122526" src="https://github.com/user-attachments/assets/fd84964a-3dec-4a1f-a6d2-2adfdd7be3b7" />
+
+## Post Processing
+
+[TALK ABOUT POST PROCESSING HERE]
+
+[IMAGES OF POST PROCESSING HERE]
+
+## Fit Test
+
+Measured diameter of 1.182 inches for the shaft and 1.195 inches for the hole. The parts have good enough clearance to slide without forcing it, and they stay together, and do not have very much play at all. These are significantly different than the allowed tolerances.
+
+<img width="362" height="338" alt="Screenshot 2026-11-03 005333" src="https://github.com/user-attachments/assets/ba931668-7e74-4ae6-b79b-823f28cd8437" />
+
+## Lessons Learned
+
+The main lesson I learned in this lab is that SLA printing can result in larger shrinkage than FDM and needs to be accounted for as it can ruin dimensions. Curing made it much tighter and required a tiny bit of sanding. Next time I can design for the shrinkage by adding an extra 1-2% to each critical dimension.
+
+Total time spent: 5 hours
 
 ## References
 
