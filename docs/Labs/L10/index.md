@@ -58,7 +58,7 @@ Final piece shown below.
 
 ## Preprocessing for 3D printing
 
-[TALK ABOUT PREPROCESSING HERE]
+The preprocessing software used, Preform, includes a one click setup feature that automatically orients your prints to minimize material use for support and more. The holes needed to be added to my part to prevent cupping. Device name was MatureImpala. The only thing changed was a layer height of .05 mm. Total volume for all 3 prints was 31.15 mL.
 
 <img width="1917" height="1018" alt="Screenshot 2026-11-02 114619" src="https://github.com/user-attachments/assets/24234c2d-d12f-4a48-a051-e052521f2f93" />
 
@@ -66,9 +66,19 @@ Final piece shown below.
 
 ## Post Processing
 
-[TALK ABOUT POST PROCESSING HERE]
+The first process was to use the scrapers and removal tools to remove the part from the build plate and then remove the supports.
 
-[IMAGES OF POST PROCESSING HERE]
+<img width="418" height="560" alt="Screenshot 2026-11-03 120633" src="https://github.com/user-attachments/assets/ed9ed0ae-415f-456a-b5ee-08f7c9637e13" />
+
+The second process was using an alcohol bath to wash the part.
+
+<img width="416" height="557" alt="Screenshot 2026-11-03 120643" src="https://github.com/user-attachments/assets/9b198209-570f-4964-acce-d74c8af53a62" />
+
+The last step was to put the parts in a curing oven.
+
+<img width="415" height="562" alt="Screenshot 2026-11-03 120651" src="https://github.com/user-attachments/assets/5ee0f555-368c-40f8-9823-28028dcbd596" />
+
+Deviations were significant from nominal values. around .005 inches.
 
 ## Fit Test
 
