@@ -14,8 +14,13 @@ So clearance is 1.4 thousandths of an inch, tolerance for the shaft is upper lim
 
 The sketch I made of my idea is shown below.
 
+<img width="326" height="201" alt="Screenshot 2026-11-02 190844" src="https://github.com/user-attachments/assets/df70310e-2ea4-449a-ac34-dd26fb5024c0" />
 
+In a real world engineering application, an RC2 sliding fit would be somewhere that can turn but not turn freely or be loose. An example application would be something like a toolholder for a machining process. There should be almost no play.
 
+## CAD Design
+
+To begin, I started by designing the hole part. I started by creating a sketch of a circle 
 
 
 
