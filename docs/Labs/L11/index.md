@@ -13,7 +13,15 @@ It is not just a plain test block; the design must be creative and/or useful (e.
 
 2–3 student projects will share one build plate.
 
-## Analyze
+## Research
+
+Cantilever snap fits require deflection based off of a cantilever beam and then return to their original shape. Release is allowed by pressing inwards on the cantilever in order to stop the prevention of the release. Below is an example of a free body diagram for a cantilever snap fit. The deflection can be calculated by using a derivation or a formula.
+
+<img width="470" height="285" alt="Screenshot 2026-11-06 215930" src="https://github.com/user-attachments/assets/dd94997f-767a-43f6-9007-b9e7b4fd9a84" />
+
+SLA modulus of elasticity for Grey V5 resin are very similar to PLA, which results in similar levels of deflection to the previous lab.
+
+## CAD Design
 
 
 
@@ -21,8 +29,7 @@ It is not just a plain test block; the design must be creative and/or useful (e.
 
 
 
-## Decide
 
+## References
 
-
-## Communicate
+https://uncc.instructure.com/courses/272053/pages/week-11-sla-designing-interlocking-parts?module_item_id=7944823
