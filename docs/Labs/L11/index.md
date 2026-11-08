@@ -39,6 +39,8 @@ In order to make this a loose fit, I will be using .7200 inches as the diameter 
 
 I started by creating a variable for the pen diameter in order to easily change it if reiteration is needed.
 
+<img width="919" height="35" alt="Screenshot 2026-11-07 204139" src="https://github.com/user-attachments/assets/fe1316c0-a50d-44a7-adc3-3015924781ca" />
+
 I then created a rectangular sketch with the dimensions shown below in order to create the main body and extruded it.
 
 
