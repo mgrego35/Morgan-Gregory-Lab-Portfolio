@@ -77,6 +77,7 @@ Lastly I made the side with the indentions by creating a sketch using some of th
 
 [SnapFitSLA.zip](https://github.com/user-attachments/files/34536021/SnapFitSLA.zip)
 
+An image of the SolidWorks assembly is shown below. This is how they will fit together.
 
 
 
