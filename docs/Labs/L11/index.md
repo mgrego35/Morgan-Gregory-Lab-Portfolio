@@ -43,7 +43,11 @@ I started by creating a variable for the pen diameter in order to easily change 
 
 I then created a rectangular sketch with the dimensions shown below in order to create the main body and extruded it.
 
+<img width="679" height="394" alt="Screenshot 2026-11-07 204249" src="https://github.com/user-attachments/assets/056978ed-ab73-4ad0-8b44-36390ecfe567" />
 
+<img width="1588" height="871" alt="Screenshot 2026-11-07 204329" src="https://github.com/user-attachments/assets/ba422bb5-69ae-455c-a334-3ebbe55d57a8" />
+
+Next I created what will be the cantilever beam side in a sketch and used the extruded cut feature to remove all of the material.
 
 
 
