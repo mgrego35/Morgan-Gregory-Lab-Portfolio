@@ -65,8 +65,17 @@ Then I created the sketch for the cantilever side. The cantilever snap fit will 
 
 <img width="1919" height="842" alt="Screenshot 2026-11-07 210850" src="https://github.com/user-attachments/assets/06a521a0-6ad8-4fb2-8dd7-0cf34dc9960d" />
 
+Lastly I made the side with the indentions by creating a sketch using some of the geometrical relations and centerlines from the other side, allowing for more accuracy. I gave it a slightly smaller length towards the middle in order to prevent any fit discrepancies. I then extruded the cut and then added the fillet. The final part ready for print is shown beneath that and the part file is linked.
 
+<img width="878" height="505" alt="Screenshot 2026-11-07 212001" src="https://github.com/user-attachments/assets/883b4791-1edf-466f-afc4-b7fc2daddbaa" />
 
+<img width="1917" height="841" alt="Screenshot 2026-11-07 212032" src="https://github.com/user-attachments/assets/35aad9a3-8184-447c-ae63-200901ebdf35" />
+
+<img width="1030" height="551" alt="Screenshot 2026-11-07 212232" src="https://github.com/user-attachments/assets/53f548fb-d0b3-4d6f-9ceb-ef4fd8a1148d" />
+
+<img width="966" height="519" alt="Screenshot 2026-11-07 212042" src="https://github.com/user-attachments/assets/b9c864f3-75f8-4a8a-a729-d452c987e54f" />
+
+[SnapFitSLA.zip](https://github.com/user-attachments/files/34536021/SnapFitSLA.zip)
 
 
 
