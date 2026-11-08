@@ -57,10 +57,13 @@ I then realized a slightly higher tolerance is necessary, and decided to make th
 
 <img width="802" height="485" alt="Screenshot 2026-11-07 205611" src="https://github.com/user-attachments/assets/2491a351-582f-4a78-a8ea-1a11e2390e9d" />
 
-Then I created the sketch for the cantilever side. The cantilever snap fit will not have a large deflection, instead, it will be closer together in order to create a tighter fit with less deflection.
+Then I created the sketch for the cantilever side. The cantilever snap fit will not have a large deflection, instead, it will be closer together in order to create a tighter fit with less deflection. I used the extruded cut feature to cut it out and then added a small .01 inch fillet to the corners.
 
+<img width="1239" height="705" alt="Screenshot 2026-11-07 210714" src="https://github.com/user-attachments/assets/49826255-6703-47de-9113-9cf0fb32ec03" />
 
+<img width="1918" height="840" alt="Screenshot 2026-11-07 210751" src="https://github.com/user-attachments/assets/2fd7f83a-f50a-418b-8a5b-98e512265771" />
 
+<img width="1919" height="842" alt="Screenshot 2026-11-07 210850" src="https://github.com/user-attachments/assets/06a521a0-6ad8-4fb2-8dd7-0cf34dc9960d" />
 
 
 
