@@ -79,10 +79,65 @@ Lastly I made the side with the indentions by creating a sketch using some of th
 
 An image of the SolidWorks assembly is shown below. This is how they will fit together.
 
+<img width="950" height="458" alt="Screenshot 2026-11-07 213247" src="https://github.com/user-attachments/assets/a5da75b9-ab17-420d-a72f-107134b23e99" />
 
+## Preprocessing and 3D Printing
 
+[Machine name and resin used]
 
+[Build orientation and reasoning]
 
+[Layout on the build plate (2–3 student parts per plate)]
+
+[Support strategy, wall thickness, and resolution settings]
+
+[Whether the design is isotropic or anisotropic, and why]
+
+[Clearance used for the snap fit engagement]
+
+[Slicer settings and screenshot showing print details]
+
+[Layer height, print time, and build volume]
+
+## Post-Processing
+
+[Take photos of the wash, cure, and support removal stages.]
+
+[Record methods and timing for each step.]
+
+[Comment on:]
+
+[How the curing process affected flexibility or fit]
+
+[The mechanical differences between SLA and PLA (FDM) parts]
+
+[Surface finish and dimensional precision]
+
+## Validation of Fit
+
+Test the snap fit in class.
+
+Document:
+
+[Does the snap engage securely?]
+
+[Is the fit too tight or too loose?]
+
+[Were adjustments needed to achieve the ideal fit?]
+
+[Include photos or a short video of the assembled artifact.]
+
+## Lessons Learned
+
+[Reflect on the entire process:]
+
+[What challenges arose designing for resin flexibility and clearance?]
+
+[What did you learn about SLA tolerances and print orientation?]
+
+[How do SLA snap fits differ from FDM snap fits?]
+
+[Comment on cost, time, and resources used from start to finish.]
 
 ## References
 
