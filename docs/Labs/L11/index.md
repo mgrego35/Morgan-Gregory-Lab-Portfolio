@@ -35,7 +35,7 @@ Scriveiner Classic Silver Chrome: .6055 inches
 
 Largest Diameter: .7140 inches
 
-In order to make this a loose fit, I will be using .7200 inches as the diameter of the pen holes.
+In order to make this a loose fit, I will be using .7200 inches as the diameter of the pen holes. The resin being used, grey v5, has a shrinkage max of around 1.5% and this will give us room so that we still have plenty of room for error.
 
 I started by creating a variable for the pen diameter in order to easily change it if reiteration is needed.
 
@@ -47,7 +47,19 @@ I then created a rectangular sketch with the dimensions shown below in order to 
 
 <img width="1588" height="871" alt="Screenshot 2026-11-07 204329" src="https://github.com/user-attachments/assets/ba422bb5-69ae-455c-a334-3ebbe55d57a8" />
 
-Next I created what will be the cantilever beam side in a sketch and used the extruded cut feature to remove all of the material.
+Next I created what will be the pen hole in a sketch and used the extruded cut feature to remove all of the material. The diameter variable was applied to the sketch. A centerline was used to line up the middle of the sketch. 
+
+<img width="800" height="504" alt="Screenshot 2026-11-07 204825" src="https://github.com/user-attachments/assets/5d4a0cfc-917a-4202-9a50-ecdb13dc7385" />
+
+<img width="1917" height="842" alt="Screenshot 2026-11-07 204926" src="https://github.com/user-attachments/assets/69ef9762-4b67-46b1-ba71-1773e807219f" />
+
+I then realized a slightly higher tolerance is necessary, and decided to make the value of D .730 inches instead of .720. This will account more for the shrinkage.
+
+<img width="802" height="485" alt="Screenshot 2026-11-07 205611" src="https://github.com/user-attachments/assets/2491a351-582f-4a78-a8ea-1a11e2390e9d" />
+
+Then I created the sketch for the cantilever side. The cantilever snap fit will not have a large deflection, instead, it will be closer together in order to create a tighter fit with less deflection.
+
+
 
 
 
