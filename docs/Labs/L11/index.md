@@ -23,7 +23,7 @@ SLA modulus of elasticity for Grey V5 resin are very similar to PLA, which resul
 
 ## CAD Design
 
-My design is a cantilever snap fit intended to hold a pen to the side of my backpack. I have a pocket for my water bottle that I want to make the fit to snap onto the pocket and then snap the pen in.
+My design is a cantilever snap fit intended to hold a pen on my desk. This will also serve as a place excess ink will fall into,  allowing me to easily pull it apart and clean it later.
 
 
 
