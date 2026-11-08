@@ -23,7 +23,30 @@ SLA modulus of elasticity for Grey V5 resin are very similar to PLA, which resul
 
 ## CAD Design
 
-My design is a cantilever snap fit intended to hold a pen on my desk. This will also serve as a place excess ink will fall into,  allowing me to easily pull it apart and clean it later.
+My design is a cantilever snap fit. It will have the cantilever side on one side and the indented side on another, in order to be able to print multiple of the same part. This will be a pen stand for my fountain pens to sit on my desk. 
+
+I began by taking the measurements on all of my pens. The largest diameter was taken and this is to find the right fit for the top. The largest diameter is to be used. The measurements were taken with a Neiko digital caliper.
+
+Lamy Safari: .7140 inches
+
+Ellington Emerald Enigma: .6790 inches
+
+Scriveiner Classic Silver Chrome: .6055 inches
+
+Largest Diameter: .7140 inches
+
+In order to make this a loose fit, I will be using .7200 inches as the diameter of the pen holes.
+
+I started by creating a variable for the pen diameter in order to easily change it if reiteration is needed.
+
+I then created a rectangular sketch with the dimensions shown below in order to create the main body and extruded it.
+
+
+
+
+
+
+
 
 
 
