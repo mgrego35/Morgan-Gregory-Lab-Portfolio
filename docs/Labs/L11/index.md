@@ -83,7 +83,7 @@ An image of the SolidWorks assembly is shown below. This is how they will fit to
 
 ## Preprocessing and 3D Printing
 
-[Machine name and resin used]
+Mature Impala - Grey V5 Resin
 
 [Build orientation and reasoning]
 
@@ -91,7 +91,7 @@ An image of the SolidWorks assembly is shown below. This is how they will fit to
 
 [Support strategy, wall thickness, and resolution settings]
 
-[Whether the design is isotropic or anisotropic, and why]
+SLA printing Results in an isotropic part because it does not have the gaps between layers as shown in FDM printing.
 
 [Clearance used for the snap fit engagement]
 
