@@ -20,6 +20,30 @@ Stereolithography is a form of printing that uses a photosensitive resin. The sh
 
 Laser cutting kerf is the material that is burned away when cutting. It depends on printer type, cut speed, cut power, and more. I will measure the kerf with the cutter I use BEFORE I cut in order to get an accurate measurement before, and then I will use that to add to my design dimensions if I decide to use the laser cutter.
 
+### Problem Definition
+
+Here are 3 problems that I am considering solving using FMD and SLA printing technologies.
+
+The first idea is a drawer system for my desk. My desk feels too cluttered and I want to have a place to put things like my stapler. I could make little hinge joints with SLA printing and the base/body of the drawer system with FDM printing because it is cheaper.
+
+The second idea is a laptop stand in order to save desk space. I could use a vertical stand to prop my laptop up when it is docked. I would also want to design around making a cord holder to go with my stand in order to prevent cords from falling behind my desk. I could make a stand with FDM printing and a cord organizer with SLA printing.
+
+The third idea is a shelf for my projector that I can use to keep the space on my bedside table clear. I could do a simple shelf with FDM and a hook system with SLA technologies.
+
+### Problem Selection
+
+The problem I have chosen to solve is the laptop stand.
+
+
+
+
+
+
+
+
+
+
+
 ## Part 2
 
 
