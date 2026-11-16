@@ -32,7 +32,7 @@ The third idea is a shelf for my projector that I can use to keep the space on m
 
 ### Problem Selection
 
-The problem I have chosen to solve is the laptop stand.
+The problem I have chosen to solve is the laptop stand and cord organizer. I will use SLA printing, preferably grey v5 resin, in order to create a cord clip that clips on the edge of my desk shown here.
 
 
 
