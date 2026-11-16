@@ -54,12 +54,25 @@ The drawing for the cable clip is shown below. The measurement for the table thi
 
 I then started by designing the model for the stand in SolidWorks. I began with the sketch below.
 
+<img width="932" height="748" alt="Screenshot 2026-11-16 161727" src="https://github.com/user-attachments/assets/63970858-20f4-4168-9c9b-8a40de7604b5" />
 
+I then extruded it by 6 inches.
 
+<img width="1918" height="841" alt="Screenshot 2026-11-16 162045" src="https://github.com/user-attachments/assets/aefabb75-a2a0-4d1d-bc0a-8920403148d4" />
 
+Then, I created an area for the little handle to lift the lid of the laptop up.
 
+<img width="874" height="752" alt="Screenshot 2026-11-16 162207" src="https://github.com/user-attachments/assets/48b2b3d6-9510-4afa-a9c8-46397a0b953e" />
 
+<img width="1916" height="842" alt="Screenshot 2026-11-16 162233" src="https://github.com/user-attachments/assets/ea871cb8-9c49-4663-88fd-08c05ce3a517" />
 
+Finally I added fillets at the top to prevent damage to my laptop or the edges of the stand. The final part is shown and linked beneath that
+
+<img width="1918" height="840" alt="Screenshot 2026-11-16 162744" src="https://github.com/user-attachments/assets/d0a92bfb-a475-43f4-a96f-b0cc34a088dc" />
+
+<img width="989" height="540" alt="Screenshot 2026-11-16 162939" src="https://github.com/user-attachments/assets/280b7f06-a59b-42ca-8b46-0fd381625d84" />
+
+[LaptopStandMKI.zip](https://github.com/user-attachments/files/34939780/LaptopStandMKI.zip)
 
 
 
