@@ -34,9 +34,13 @@ The third idea is a shelf for my projector that I can use to keep the space on m
 
 The problem I have chosen to solve is the laptop stand and cord organizer. I will use SLA printing, preferably grey v5 resin, in order to create a cord clip that clips on the edge of my desk shown here.
 
+<img width="500" height="388" alt="Screenshot 2026-11-16 151602" src="https://github.com/user-attachments/assets/88a6d60d-63c3-4012-8de9-205d5840fbe2" />
 
+I will also have to make a stand that accounts for the width of the laptop when shut. I will make it by FDM printing. 
 
+<img width="501" height="254" alt="Screenshot 2026-11-16 151610" src="https://github.com/user-attachments/assets/97b9de7e-e9aa-4561-9572-3da2d896c8d6" />
 
+### Concept Development
 
 
 
