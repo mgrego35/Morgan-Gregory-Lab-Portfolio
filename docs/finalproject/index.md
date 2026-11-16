@@ -42,6 +42,20 @@ I will also have to make a stand that accounts for the width of the laptop when 
 
 ### Concept Development
 
+I decided to begin by measuring the width of my laptop shut. The width was .804 inches.
+
+I then made a drawing shown below of the stand.
+
+<img width="1544" height="661" alt="Screenshot 2026-11-16 154146" src="https://github.com/user-attachments/assets/35e0ebe2-b72a-4887-bcb9-e2ccd19bc2f7" />
+
+The drawing for the cable clip is shown below. The measurement for the table thickness was .5970 inches.
+
+
+
+
+
+
+
 
 
 
