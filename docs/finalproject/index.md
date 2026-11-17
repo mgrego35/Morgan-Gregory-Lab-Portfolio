@@ -96,7 +96,7 @@ The final part is shown below and linked as well.
 
 ### Video Presentation
 
-[PLACE VIDEO PRESENTATION HERE]
+<video controls width="320" src="https://github.com/user-attachments/assets/9e600007-1d97-4790-b95a-c82e6daaed75"></video>
 
 ## Part 2
 
