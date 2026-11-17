@@ -83,59 +83,29 @@ An image of the SolidWorks assembly is shown below. This is how they will fit to
 
 ## Preprocessing and 3D Printing
 
-Mature Impala - Grey V5 Resin
+Mature Impala - Grey V5 Resin used.
 
-[Build orientation and reasoning]
+<img width="1917" height="907" alt="Screenshot 2026-11-09 104534" src="https://github.com/user-attachments/assets/9f8ca355-6d65-43a7-84a4-18710f6f2b39" />
 
-[Layout on the build plate (2–3 student parts per plate)]
-
-[Support strategy, wall thickness, and resolution settings]
-
-SLA printing Results in an isotropic part because it does not have the gaps between layers as shown in FDM printing.
-
-[Clearance used for the snap fit engagement]
-
-[Slicer settings and screenshot showing print details]
-
-[Layer height, print time, and build volume]
+Orientation shown above and settings were all given from the one click setup feature. Layer height was .05 mm. SLA printing Results in an isotropic part because it does not have the gaps between layers as shown in FDM printing.
 
 ## Post-Processing
 
-[Take photos of the wash, cure, and support removal stages.]
+Post processing included first removing parts from the build plate and placing them in an alcohol bath for 10 minutes on high, removing the supports after, and then curing the parts in curing oven. Process shown below.
 
-[Record methods and timing for each step.]
+<img width="543" height="364" alt="Screenshot 2026-11-17 112130" src="https://github.com/user-attachments/assets/76183238-d275-45d1-882f-a11380868264" />
 
-[Comment on:]
+<img width="499" height="349" alt="Screenshot 2026-11-17 112124" src="https://github.com/user-attachments/assets/cafcbb0b-48b3-4c79-9f81-d10f0d3c2be2" />
 
-[How the curing process affected flexibility or fit]
-
-[The mechanical differences between SLA and PLA (FDM) parts]
-
-[Surface finish and dimensional precision]
+<img width="484" height="263" alt="Screenshot 2026-11-17 112135" src="https://github.com/user-attachments/assets/9912c49f-f4f8-4da5-b3e4-ab06de26614c" />
 
 ## Validation of Fit
 
-Test the snap fit in class.
-
-Document:
-
-[Does the snap engage securely?]
-
-[Is the fit too tight or too loose?]
-
-[Were adjustments needed to achieve the ideal fit?]
-
-[Include photos or a short video of the assembled artifact.]
+The snap fit did work in class. The fit was not ideal, tighter than expected, but it ended up fitting. If I were to redesign I would likely thin the cantilever beams to allow for more deflection.
 
 ## Lessons Learned
 
-[Reflect on the entire process:]
-
-[What challenges arose designing for resin flexibility and clearance?]
-
-[What did you learn about SLA tolerances and print orientation?]
-
-[How do SLA snap fits differ from FDM snap fits?]
+I learned that SLA tolerancing is much harder to account for than FDM because it shrinks so much. If I use SLA again I will make sure to account for about 1-2% shrinkage depending on the resin used. I would also leave more room for tolerances because they shrink so much. The time it took for this project was about 8 hours.
 
 [Comment on cost, time, and resources used from start to finish.]
 
