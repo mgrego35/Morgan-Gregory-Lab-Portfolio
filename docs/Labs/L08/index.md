@@ -38,7 +38,7 @@ No big settings were changed for this print other than using a 5% gyroid infill.
 
 Final product shown below.
 
-[IMAGE OF FINAL PART SHOWN HERE]
+<img width="513" height="451" alt="Screenshot 2026-11-17 111535" src="https://github.com/user-attachments/assets/9ffc66c1-32c9-4d1b-a68d-087836dd1972" />
 
 ## References
 
