@@ -74,9 +74,29 @@ Finally I added fillets at the top to prevent damage to my laptop or the edges o
 
 [LaptopStandMKI.zip](https://github.com/user-attachments/files/34939780/LaptopStandMKI.zip)
 
+Next I began working on the cable clip. I started with the sketch shown below and extruded it by 2 inches.
 
+<img width="852" height="564" alt="Screenshot 2026-11-16 165924" src="https://github.com/user-attachments/assets/634a60f9-66ee-401e-8118-f712b5c515ba" />
 
+The next Thing I did was create a sketch for the cable holes shown below and made an extruded cut.
 
+<img width="1304" height="786" alt="Screenshot 2026-11-16 204153" src="https://github.com/user-attachments/assets/58ee323e-b929-4769-be3a-b4c95d4059f9" />
+
+<img width="1917" height="845" alt="Screenshot 2026-11-16 204218" src="https://github.com/user-attachments/assets/d64a929e-cabc-4053-9c9b-e0b13c74247d" />
+
+Finally I created some fillets on the edges in order to clean the part up and prevent sharp edges.
+
+<img width="1919" height="840" alt="Screenshot 2026-11-16 204349" src="https://github.com/user-attachments/assets/94b0aefd-48a6-44fe-bb33-d9cb5fe379f3" />
+
+The final part is shown below and linked as well.
+
+<img width="990" height="563" alt="Screenshot 2026-11-16 204620" src="https://github.com/user-attachments/assets/cda6fffc-a5c8-49d5-b640-03c69dcb1dc4" />
+
+[CableClip.zip](https://github.com/user-attachments/files/34946865/CableClip.zip)
+
+### Video Presentation
+
+[PLACE VIDEO PRESENTATION HERE]
 
 ## Part 2
 
