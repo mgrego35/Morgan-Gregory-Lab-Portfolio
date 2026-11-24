@@ -100,10 +100,19 @@ The final part is shown below and linked as well.
 
 ## Part 2
 
+## Peer Feedback
 
+[INSERT PEER FEEDBACK SHEETS HERE]
 
+[REFLECTIONS FOR FEEDBACK HERE]
 
+## Refinement
 
+## Presentation 
+
+https://docs.google.com/presentation/d/1-fyas8G-PMypAdyogLL-iEpL0vdElaPQfJBEW0knr7U/edit?usp=sharing
+
+## Final Video
 
 ## References
 
