@@ -126,8 +126,11 @@ I mainly needed to iterate on the clip. I began by making the thickness "T" a gl
 
 <img width="1260" height="711" alt="Screenshot 2026-11-24 235952" src="https://github.com/user-attachments/assets/f7caf043-7576-4167-8e3a-f78580fb0f7c" />
 
-## Printing
+## Preprocessing, Printing, and Post-Processing
 
+The image of the final print bed is shown below. The orientation of my print allows for the supports to affect the fits as little as possible. A layer height of .050 mm was used and the print settings are shown. Grey V5 was the resin used.
+
+<img width="1917" height="898" alt="Screenshot 2026-11-20 101807" src="https://github.com/user-attachments/assets/b366c243-3780-4f66-9eac-03b4397a6b46" />
 
 
 ## Presentation 
