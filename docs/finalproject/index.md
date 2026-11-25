@@ -102,9 +102,17 @@ The final part is shown below and linked as well.
 
 ## Peer Feedback
 
-[INSERT PEER FEEDBACK SHEETS HERE]
+### Feedback From Ethan Cornett
 
-[REFLECTIONS FOR FEEDBACK HERE]
+<img width="465" height="636" alt="Screenshot 2026-11-24 214321" src="https://github.com/user-attachments/assets/4aca2574-6a90-4e0b-997c-fcea4c796a8c" />
+
+<img width="466" height="613" alt="Screenshot 2026-11-24 214328" src="https://github.com/user-attachments/assets/b743705d-f9a5-4f37-b533-2776ec664fd2" />
+
+### Feedback From Lexie Cox
+
+<img width="465" height="637" alt="Screenshot 2026-11-24 214425" src="https://github.com/user-attachments/assets/9e42b874-3948-4b7d-a53f-fd42e937b728" />
+
+<img width="466" height="646" alt="Screenshot 2026-11-24 214432" src="https://github.com/user-attachments/assets/97240a24-0f09-4282-b978-3242aecfe357" />
 
 ## Refinement
 
