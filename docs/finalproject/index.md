@@ -138,6 +138,10 @@ https://docs.google.com/presentation/d/1-fyas8G-PMypAdyogLL-iEpL0vdElaPQfJBEW0kn
 
 [PLACE FINAL VIDEO HERE]
 
+The final prints are shown below. They turned out to work perfectly as shown in the image.
+
+<img width="499" height="482" alt="Screenshot 2026-11-23 212922" src="https://github.com/user-attachments/assets/e5c90a7a-f5e2-420a-a396-aca45ccae03b" />
+
 ## References
 
 https://medium.com/@nld.anuradha/the-spiral-model-in-sdlc-risk-driven-and-iterative-development-a58f977d065c
