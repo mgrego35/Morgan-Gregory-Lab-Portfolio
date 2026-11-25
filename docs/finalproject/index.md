@@ -108,19 +108,35 @@ The final part is shown below and linked as well.
 
 <img width="466" height="613" alt="Screenshot 2026-11-24 214328" src="https://github.com/user-attachments/assets/b743705d-f9a5-4f37-b533-2776ec664fd2" />
 
+Ethan's main advice was to worry about tolerances and to increase sizing for SLA shrinkage. I already accounted for this. A tray for the power box is not something I am interested in because it already sits in a convenient spot.
+
 ### Feedback From Lexie Cox
 
 <img width="465" height="637" alt="Screenshot 2026-11-24 214425" src="https://github.com/user-attachments/assets/9e42b874-3948-4b7d-a53f-fd42e937b728" />
 
 <img width="466" height="646" alt="Screenshot 2026-11-24 214432" src="https://github.com/user-attachments/assets/97240a24-0f09-4282-b978-3242aecfe357" />
 
+Lexie's advice was to focus on the strength. I will likely iterate on this to add thickness to the clip in order to make it slightly more solid.
+
 ## Refinement
+
+I mainly needed to iterate on the clip. I began by making the thickness "T" a global variable and changing it to .3 instead of .250 inches. This should add some extra strength without sacrificing too much.
+
+<img width="1055" height="223" alt="Screenshot 2026-11-24 235733" src="https://github.com/user-attachments/assets/4faf7591-3e45-4c62-b313-744833edaa2e" />
+
+<img width="1260" height="711" alt="Screenshot 2026-11-24 235952" src="https://github.com/user-attachments/assets/f7caf043-7576-4167-8e3a-f78580fb0f7c" />
+
+## Printing
+
+
 
 ## Presentation 
 
 https://docs.google.com/presentation/d/1-fyas8G-PMypAdyogLL-iEpL0vdElaPQfJBEW0knr7U/edit?usp=sharing
 
 ## Final Video
+
+[PLACE FINAL VIDEO HERE]
 
 ## References
 
